@@ -1,0 +1,1001 @@
+vendor_id,vendor_name,business_type,city,vendor_age,business_age_months,archetype
+VND-1000,Ramesh Tea & Snacks,Food & Beverage,Vellore,31,15,healthy
+VND-1001,Lakshmi Vegetable Stall,Fresh Produce,Katpadi,41,43,healthy
+VND-1002,Arun Mobile Repairs,Electronics Repair,Vellore,38,29,suspicious
+VND-1003,Priya Flower Mart,Florist,Vellore,30,98,seasonal
+VND-1004,Anand Grocery Store,Grocery Stall,Katpadi,58,23,growing
+VND-1005,Selvam Tailoring & Clothing,Clothing Vendor,Ranipet,51,16,irregular
+VND-1006,Murugan Idli Kadai,Street Snacks,Vellore,25,23,healthy
+VND-1007,Deepa Milk & Dairy,Dairy Vendor,Katpadi,37,41,healthy
+VND-1008,Karthik Fruit Juice Center,Food & Beverage,Vellore,56,89,growing
+VND-1009,Vijay Fast Food,Food & Beverage,Ranipet,25,83,low_volume
+VND-1010,Priya Sweet & Snacks,Street Snacks,Katpadi,49,156,healthy
+VND-1011,Selvam Tea Stall,Electronics Repair,Walajah,42,77,suspicious
+VND-1012,Kavitha Fruits & Juice,Clothing Vendor,Vellore,26,103,seasonal
+VND-1013,Murugan Boutique & Cloth,Clothing Vendor,Arcot,37,17,growing
+VND-1014,Babu Sweet & Snacks,Fresh Produce,Walajah,26,147,healthy
+VND-1015,Deepa Flower Stall,Clothing Vendor,Arcot,33,23,healthy
+VND-1016,Suresh Fruits & Juice,Grocery Stall,Vellore,35,31,healthy
+VND-1017,Venkatesh Provision Store,Dairy Vendor,Ranipet,31,100,low_volume
+VND-1018,Vijay Fruits & Juice,Grocery Stall,Vellore,59,168,seasonal
+VND-1019,Arun Sweet & Snacks,Florist,Katpadi,50,103,seasonal
+VND-1020,Selvam Sweet & Snacks,Florist,Ranipet,24,64,healthy
+VND-1021,Suresh Boutique & Cloth,Street Snacks,Ranipet,25,60,suspicious
+VND-1022,Mani Boutique & Cloth,Florist,Walajah,46,170,irregular
+VND-1023,Babu Mobile Shop,Grocery Stall,Katpadi,36,149,healthy
+VND-1024,Radha Provision Store,Street Snacks,Arcot,46,98,healthy
+VND-1025,Anand Mobile Shop,Dairy Vendor,Vellore,24,34,healthy
+VND-1026,Kavitha Mobile Shop,Street Snacks,Arcot,25,104,healthy
+VND-1027,Venkatesh Flower Stall,Dairy Vendor,Arcot,37,147,growing
+VND-1028,Ramesh Vegetable Corner,Grocery Stall,Ranipet,28,81,growing
+VND-1029,Meena Mobile Shop,Dairy Vendor,Vellore,37,134,healthy
+VND-1030,Arun Sweet & Snacks,Fresh Produce,Ranipet,61,135,seasonal
+VND-1031,Divya Fruits & Juice,Electronics Repair,Ranipet,31,144,healthy
+VND-1032,Ganesh Tea Stall,Clothing Vendor,Walajah,22,34,healthy
+VND-1033,Vijay Provision Store,Florist,Vellore,36,151,healthy
+VND-1034,Lakshmi Vegetable Corner,Dairy Vendor,Vellore,55,38,growing
+VND-1035,Kavitha Milk Point,Electronics Repair,Ranipet,54,161,irregular
+VND-1036,Meena Fruits & Juice,Florist,Ranipet,46,177,healthy
+VND-1037,Vijay Milk Point,Dairy Vendor,Vellore,36,63,growing
+VND-1038,Lakshmi Boutique & Cloth,Food & Beverage,Arcot,56,64,growing
+VND-1039,Mani Fruits & Juice,Food & Beverage,Vellore,61,21,healthy
+VND-1040,Anand Vegetable Corner,Food & Beverage,Ranipet,25,137,seasonal
+VND-1041,Anand Provision Store,Dairy Vendor,Katpadi,55,39,healthy
+VND-1042,Mani Flower Stall,Dairy Vendor,Katpadi,51,110,healthy
+VND-1043,Priya Vegetable Corner,Fresh Produce,Walajah,43,114,suspicious
+VND-1044,Meena Milk Point,Food & Beverage,Vellore,24,109,suspicious
+VND-1045,Karthik Vegetable Corner,Florist,Katpadi,33,143,irregular
+VND-1046,Babu Mobile Shop,Street Snacks,Katpadi,38,124,healthy
+VND-1047,Anand Vegetable Corner,Dairy Vendor,Arcot,27,18,healthy
+VND-1048,Radha Tea Stall,Fresh Produce,Katpadi,31,110,seasonal
+VND-1049,Saravanan Milk Point,Florist,Walajah,24,48,growing
+VND-1050,Venkatesh Tea Stall,Street Snacks,Ranipet,50,79,healthy
+VND-1051,Meena Sweet & Snacks,Dairy Vendor,Katpadi,33,81,growing
+VND-1052,Priya Tea Stall,Food & Beverage,Ranipet,24,18,healthy
+VND-1053,Mani Milk Point,Electronics Repair,Vellore,53,26,low_volume
+VND-1054,Arun Vegetable Corner,Fresh Produce,Katpadi,46,36,healthy
+VND-1055,Mani Fruits & Juice,Food & Beverage,Arcot,26,113,seasonal
+VND-1056,Mani Flower Stall,Clothing Vendor,Ranipet,34,177,healthy
+VND-1057,Karthik Fruits & Juice,Grocery Stall,Walajah,29,177,growing
+VND-1058,Deepa Milk Point,Clothing Vendor,Vellore,21,123,growing
+VND-1059,Divya Flower Stall,Fresh Produce,Vellore,55,60,healthy
+VND-1060,Ganesh Provision Store,Electronics Repair,Ranipet,25,68,suspicious
+VND-1061,Vijay Provision Store,Electronics Repair,Walajah,55,83,irregular
+VND-1062,Divya Sweet & Snacks,Food & Beverage,Arcot,40,175,suspicious
+VND-1063,Murugan Mobile Shop,Grocery Stall,Vellore,27,147,low_volume
+VND-1064,Kavitha Provision Store,Grocery Stall,Arcot,34,93,growing
+VND-1065,Priya Provision Store,Dairy Vendor,Ranipet,24,29,low_volume
+VND-1066,Meena Provision Store,Food & Beverage,Vellore,42,39,healthy
+VND-1067,Selvam Mobile Shop,Dairy Vendor,Arcot,48,149,healthy
+VND-1068,Ramesh Vegetable Corner,Fresh Produce,Katpadi,55,15,healthy
+VND-1069,Vijay Flower Stall,Electronics Repair,Walajah,29,16,healthy
+VND-1070,Deepa Boutique & Cloth,Food & Beverage,Ranipet,34,180,healthy
+VND-1071,Anand Vegetable Corner,Clothing Vendor,Arcot,47,164,healthy
+VND-1072,Kavitha Fruits & Juice,Electronics Repair,Katpadi,47,12,irregular
+VND-1073,Arun Boutique & Cloth,Street Snacks,Katpadi,38,46,healthy
+VND-1074,Murugan Tiffin Center,Food & Beverage,Walajah,35,57,healthy
+VND-1075,Babu Boutique & Cloth,Grocery Stall,Katpadi,35,12,growing
+VND-1076,Priya Tiffin Center,Clothing Vendor,Ranipet,25,77,healthy
+VND-1077,Vijay Sweet & Snacks,Street Snacks,Arcot,42,13,irregular
+VND-1078,Murugan Provision Store,Electronics Repair,Arcot,37,15,healthy
+VND-1079,Murugan Flower Stall,Street Snacks,Ranipet,41,117,suspicious
+VND-1080,Divya Sweet & Snacks,Fresh Produce,Walajah,57,54,irregular
+VND-1081,Selvam Tea Stall,Street Snacks,Vellore,54,143,healthy
+VND-1082,Priya Boutique & Cloth,Street Snacks,Vellore,63,90,healthy
+VND-1083,Divya Boutique & Cloth,Fresh Produce,Ranipet,53,85,irregular
+VND-1084,Meena Boutique & Cloth,Street Snacks,Ranipet,56,38,seasonal
+VND-1085,Priya Tiffin Center,Street Snacks,Katpadi,60,151,seasonal
+VND-1086,Deepa Tiffin Center,Food & Beverage,Ranipet,39,59,irregular
+VND-1087,Meena Flower Stall,Clothing Vendor,Walajah,49,119,healthy
+VND-1088,Priya Sweet & Snacks,Dairy Vendor,Katpadi,63,27,healthy
+VND-1089,Deepa Sweet & Snacks,Clothing Vendor,Vellore,36,178,healthy
+VND-1090,Deepa Fruits & Juice,Florist,Katpadi,22,17,low_volume
+VND-1091,Anand Milk Point,Fresh Produce,Walajah,47,167,seasonal
+VND-1092,Mani Fruits & Juice,Street Snacks,Walajah,46,68,healthy
+VND-1093,Kavitha Tea Stall,Fresh Produce,Walajah,35,51,healthy
+VND-1094,Ganesh Milk Point,Food & Beverage,Arcot,36,37,healthy
+VND-1095,Babu Mobile Shop,Dairy Vendor,Arcot,56,158,healthy
+VND-1096,Karthik Milk Point,Street Snacks,Arcot,49,46,seasonal
+VND-1097,Saravanan Milk Point,Grocery Stall,Katpadi,61,76,seasonal
+VND-1098,Ganesh Milk Point,Florist,Ranipet,49,25,low_volume
+VND-1099,Deepa Fruits & Juice,Grocery Stall,Ranipet,41,144,growing
+VND-1100,Lakshmi Mobile Shop,Electronics Repair,Katpadi,45,45,healthy
+VND-1101,Priya Vegetable Corner,Street Snacks,Walajah,42,144,seasonal
+VND-1102,Babu Tiffin Center,Food & Beverage,Katpadi,47,105,irregular
+VND-1103,Mani Tea Stall,Street Snacks,Walajah,21,96,growing
+VND-1104,Deepa Tiffin Center,Street Snacks,Arcot,55,160,irregular
+VND-1105,Anand Milk Point,Florist,Ranipet,48,130,growing
+VND-1106,Ramesh Tiffin Center,Clothing Vendor,Walajah,31,125,growing
+VND-1107,Kavitha Flower Stall,Food & Beverage,Walajah,58,150,growing
+VND-1108,Ramesh Vegetable Corner,Street Snacks,Katpadi,50,52,healthy
+VND-1109,Suresh Provision Store,Street Snacks,Ranipet,34,122,healthy
+VND-1110,Karthik Boutique & Cloth,Street Snacks,Ranipet,47,70,healthy
+VND-1111,Lakshmi Milk Point,Food & Beverage,Arcot,24,95,seasonal
+VND-1112,Anand Vegetable Corner,Food & Beverage,Vellore,36,57,healthy
+VND-1113,Ramesh Flower Stall,Electronics Repair,Katpadi,29,127,growing
+VND-1114,Murugan Flower Stall,Florist,Walajah,65,71,low_volume
+VND-1115,Vijay Mobile Shop,Fresh Produce,Katpadi,40,33,healthy
+VND-1116,Mani Tea Stall,Grocery Stall,Arcot,64,102,growing
+VND-1117,Venkatesh Fruits & Juice,Fresh Produce,Arcot,65,166,irregular
+VND-1118,Anand Vegetable Corner,Grocery Stall,Arcot,28,150,healthy
+VND-1119,Suresh Boutique & Cloth,Street Snacks,Ranipet,25,135,healthy
+VND-1120,Karthik Tea Stall,Street Snacks,Walajah,27,116,healthy
+VND-1121,Vijay Milk Point,Electronics Repair,Walajah,32,139,healthy
+VND-1122,Selvam Flower Stall,Dairy Vendor,Walajah,48,157,low_volume
+VND-1123,Selvam Boutique & Cloth,Florist,Vellore,38,121,irregular
+VND-1124,Anand Milk Point,Street Snacks,Ranipet,22,132,seasonal
+VND-1125,Karthik Mobile Shop,Dairy Vendor,Katpadi,43,72,low_volume
+VND-1126,Karthik Provision Store,Grocery Stall,Arcot,21,138,irregular
+VND-1127,Priya Vegetable Corner,Florist,Walajah,52,148,healthy
+VND-1128,Anand Milk Point,Dairy Vendor,Walajah,22,29,low_volume
+VND-1129,Deepa Fruits & Juice,Street Snacks,Katpadi,40,175,growing
+VND-1130,Mani Boutique & Cloth,Dairy Vendor,Arcot,54,94,irregular
+VND-1131,Meena Sweet & Snacks,Clothing Vendor,Ranipet,65,122,low_volume
+VND-1132,Selvam Provision Store,Grocery Stall,Katpadi,28,55,healthy
+VND-1133,Karthik Vegetable Corner,Electronics Repair,Katpadi,34,129,healthy
+VND-1134,Selvam Flower Stall,Grocery Stall,Vellore,33,81,healthy
+VND-1135,Anand Boutique & Cloth,Electronics Repair,Ranipet,21,142,growing
+VND-1136,Kavitha Provision Store,Food & Beverage,Vellore,56,80,irregular
+VND-1137,Kavitha Milk Point,Fresh Produce,Vellore,57,78,low_volume
+VND-1138,Saravanan Milk Point,Dairy Vendor,Ranipet,32,19,healthy
+VND-1139,Selvam Milk Point,Fresh Produce,Vellore,46,131,growing
+VND-1140,Lakshmi Flower Stall,Food & Beverage,Katpadi,30,150,growing
+VND-1141,Deepa Vegetable Corner,Florist,Vellore,56,112,healthy
+VND-1142,Divya Flower Stall,Florist,Arcot,45,121,healthy
+VND-1143,Babu Provision Store,Street Snacks,Ranipet,57,164,healthy
+VND-1144,Suresh Flower Stall,Fresh Produce,Katpadi,61,60,suspicious
+VND-1145,Selvam Vegetable Corner,Electronics Repair,Katpadi,32,147,healthy
+VND-1146,Lakshmi Mobile Shop,Food & Beverage,Walajah,49,158,growing
+VND-1147,Saravanan Provision Store,Food & Beverage,Katpadi,39,78,seasonal
+VND-1148,Babu Vegetable Corner,Florist,Ranipet,61,156,healthy
+VND-1149,Priya Tiffin Center,Fresh Produce,Arcot,35,171,suspicious
+VND-1150,Kavitha Provision Store,Electronics Repair,Vellore,24,48,suspicious
+VND-1151,Deepa Flower Stall,Grocery Stall,Walajah,28,125,healthy
+VND-1152,Deepa Tiffin Center,Grocery Stall,Arcot,55,132,growing
+VND-1153,Babu Vegetable Corner,Food & Beverage,Walajah,41,160,healthy
+VND-1154,Selvam Tea Stall,Fresh Produce,Katpadi,64,153,healthy
+VND-1155,Mani Tea Stall,Grocery Stall,Arcot,23,50,healthy
+VND-1156,Saravanan Sweet & Snacks,Dairy Vendor,Ranipet,32,155,seasonal
+VND-1157,Meena Milk Point,Fresh Produce,Walajah,43,110,growing
+VND-1158,Karthik Boutique & Cloth,Fresh Produce,Katpadi,42,111,healthy
+VND-1159,Saravanan Provision Store,Street Snacks,Arcot,23,122,healthy
+VND-1160,Lakshmi Boutique & Cloth,Grocery Stall,Ranipet,28,109,low_volume
+VND-1161,Ganesh Tea Stall,Dairy Vendor,Walajah,24,54,healthy
+VND-1162,Ganesh Boutique & Cloth,Dairy Vendor,Walajah,24,58,healthy
+VND-1163,Selvam Sweet & Snacks,Electronics Repair,Ranipet,49,130,growing
+VND-1164,Murugan Tea Stall,Florist,Katpadi,40,147,suspicious
+VND-1165,Ramesh Sweet & Snacks,Street Snacks,Vellore,35,35,healthy
+VND-1166,Babu Vegetable Corner,Electronics Repair,Walajah,39,136,seasonal
+VND-1167,Selvam Tiffin Center,Dairy Vendor,Walajah,36,122,irregular
+VND-1168,Radha Mobile Shop,Street Snacks,Katpadi,59,136,healthy
+VND-1169,Kavitha Vegetable Corner,Grocery Stall,Walajah,42,135,seasonal
+VND-1170,Selvam Tea Stall,Grocery Stall,Ranipet,58,154,healthy
+VND-1171,Saravanan Mobile Shop,Dairy Vendor,Arcot,51,94,seasonal
+VND-1172,Karthik Sweet & Snacks,Street Snacks,Walajah,41,54,seasonal
+VND-1173,Anand Flower Stall,Street Snacks,Katpadi,47,17,growing
+VND-1174,Karthik Milk Point,Street Snacks,Walajah,63,172,healthy
+VND-1175,Kavitha Milk Point,Food & Beverage,Katpadi,53,157,irregular
+VND-1176,Karthik Vegetable Corner,Dairy Vendor,Vellore,54,122,healthy
+VND-1177,Ramesh Mobile Shop,Street Snacks,Katpadi,25,126,healthy
+VND-1178,Selvam Boutique & Cloth,Street Snacks,Vellore,42,178,healthy
+VND-1179,Radha Tiffin Center,Clothing Vendor,Walajah,55,15,growing
+VND-1180,Divya Vegetable Corner,Florist,Ranipet,35,29,seasonal
+VND-1181,Meena Vegetable Corner,Fresh Produce,Walajah,31,82,healthy
+VND-1182,Ramesh Tea Stall,Clothing Vendor,Vellore,39,97,growing
+VND-1183,Vijay Tiffin Center,Electronics Repair,Katpadi,54,111,healthy
+VND-1184,Mani Mobile Shop,Electronics Repair,Katpadi,26,162,seasonal
+VND-1185,Venkatesh Flower Stall,Florist,Walajah,58,42,healthy
+VND-1186,Anand Milk Point,Grocery Stall,Walajah,37,176,seasonal
+VND-1187,Ramesh Milk Point,Grocery Stall,Arcot,31,24,healthy
+VND-1188,Babu Boutique & Cloth,Grocery Stall,Walajah,65,70,suspicious
+VND-1189,Babu Provision Store,Florist,Walajah,51,33,healthy
+VND-1190,Anand Tiffin Center,Clothing Vendor,Arcot,39,81,healthy
+VND-1191,Ramesh Tiffin Center,Grocery Stall,Vellore,57,18,healthy
+VND-1192,Divya Milk Point,Grocery Stall,Katpadi,59,96,low_volume
+VND-1193,Anand Fruits & Juice,Grocery Stall,Katpadi,61,30,low_volume
+VND-1194,Suresh Provision Store,Dairy Vendor,Vellore,58,99,healthy
+VND-1195,Kavitha Vegetable Corner,Grocery Stall,Ranipet,47,50,seasonal
+VND-1196,Priya Mobile Shop,Clothing Vendor,Arcot,53,75,irregular
+VND-1197,Arun Provision Store,Dairy Vendor,Ranipet,42,35,growing
+VND-1198,Babu Vegetable Corner,Electronics Repair,Katpadi,64,178,growing
+VND-1199,Venkatesh Sweet & Snacks,Clothing Vendor,Vellore,46,9,healthy
+VND-1200,Selvam Sweet & Snacks,Fresh Produce,Walajah,44,178,healthy
+VND-1201,Selvam Flower Stall,Street Snacks,Ranipet,27,178,low_volume
+VND-1202,Anand Milk Point,Food & Beverage,Arcot,56,89,low_volume
+VND-1203,Divya Fruits & Juice,Fresh Produce,Walajah,65,83,seasonal
+VND-1204,Meena Vegetable Corner,Electronics Repair,Vellore,23,83,healthy
+VND-1205,Saravanan Vegetable Corner,Fresh Produce,Katpadi,55,40,healthy
+VND-1206,Venkatesh Milk Point,Clothing Vendor,Arcot,47,156,seasonal
+VND-1207,Kavitha Tiffin Center,Fresh Produce,Walajah,60,110,low_volume
+VND-1208,Selvam Tea Stall,Clothing Vendor,Katpadi,49,119,low_volume
+VND-1209,Anand Boutique & Cloth,Fresh Produce,Ranipet,55,171,irregular
+VND-1210,Vijay Tea Stall,Street Snacks,Ranipet,33,37,seasonal
+VND-1211,Babu Vegetable Corner,Florist,Arcot,22,18,healthy
+VND-1212,Karthik Fruits & Juice,Electronics Repair,Arcot,34,23,healthy
+VND-1213,Radha Fruits & Juice,Florist,Katpadi,42,43,low_volume
+VND-1214,Divya Tea Stall,Grocery Stall,Katpadi,29,144,seasonal
+VND-1215,Selvam Mobile Shop,Fresh Produce,Vellore,29,9,healthy
+VND-1216,Vijay Fruits & Juice,Clothing Vendor,Vellore,32,73,healthy
+VND-1217,Suresh Mobile Shop,Street Snacks,Arcot,28,22,seasonal
+VND-1218,Saravanan Milk Point,Clothing Vendor,Arcot,58,33,healthy
+VND-1219,Babu Sweet & Snacks,Florist,Arcot,23,174,healthy
+VND-1220,Ganesh Provision Store,Dairy Vendor,Vellore,24,128,growing
+VND-1221,Venkatesh Tiffin Center,Fresh Produce,Walajah,49,24,seasonal
+VND-1222,Lakshmi Boutique & Cloth,Electronics Repair,Vellore,29,76,seasonal
+VND-1223,Divya Flower Stall,Clothing Vendor,Walajah,59,141,healthy
+VND-1224,Deepa Milk Point,Street Snacks,Vellore,65,35,seasonal
+VND-1225,Radha Fruits & Juice,Street Snacks,Walajah,35,111,healthy
+VND-1226,Karthik Milk Point,Street Snacks,Walajah,27,86,healthy
+VND-1227,Meena Boutique & Cloth,Grocery Stall,Ranipet,30,127,seasonal
+VND-1228,Lakshmi Vegetable Corner,Fresh Produce,Vellore,48,30,seasonal
+VND-1229,Vijay Mobile Shop,Food & Beverage,Arcot,56,149,irregular
+VND-1230,Karthik Vegetable Corner,Street Snacks,Ranipet,63,114,seasonal
+VND-1231,Suresh Provision Store,Grocery Stall,Ranipet,27,153,growing
+VND-1232,Ganesh Fruits & Juice,Electronics Repair,Walajah,35,33,healthy
+VND-1233,Vijay Sweet & Snacks,Clothing Vendor,Vellore,38,152,healthy
+VND-1234,Anand Tiffin Center,Food & Beverage,Arcot,63,74,healthy
+VND-1235,Ramesh Mobile Shop,Grocery Stall,Ranipet,42,95,healthy
+VND-1236,Ramesh Mobile Shop,Electronics Repair,Arcot,63,108,suspicious
+VND-1237,Lakshmi Mobile Shop,Food & Beverage,Vellore,54,61,healthy
+VND-1238,Venkatesh Tiffin Center,Dairy Vendor,Ranipet,31,100,low_volume
+VND-1239,Deepa Boutique & Cloth,Fresh Produce,Vellore,30,46,seasonal
+VND-1240,Divya Tea Stall,Fresh Produce,Ranipet,49,175,irregular
+VND-1241,Meena Milk Point,Dairy Vendor,Walajah,38,61,growing
+VND-1242,Ganesh Vegetable Corner,Clothing Vendor,Walajah,28,78,growing
+VND-1243,Mani Milk Point,Grocery Stall,Vellore,35,107,growing
+VND-1244,Divya Tea Stall,Food & Beverage,Katpadi,40,60,healthy
+VND-1245,Kavitha Provision Store,Grocery Stall,Ranipet,28,7,seasonal
+VND-1246,Saravanan Tiffin Center,Electronics Repair,Katpadi,45,142,healthy
+VND-1247,Anand Sweet & Snacks,Clothing Vendor,Vellore,46,16,healthy
+VND-1248,Meena Tea Stall,Dairy Vendor,Vellore,41,153,seasonal
+VND-1249,Meena Flower Stall,Street Snacks,Walajah,39,35,healthy
+VND-1250,Venkatesh Tea Stall,Clothing Vendor,Katpadi,60,123,suspicious
+VND-1251,Vijay Vegetable Corner,Street Snacks,Vellore,36,117,suspicious
+VND-1252,Mani Tiffin Center,Fresh Produce,Walajah,40,92,low_volume
+VND-1253,Anand Boutique & Cloth,Electronics Repair,Vellore,53,168,healthy
+VND-1254,Murugan Sweet & Snacks,Florist,Ranipet,43,171,healthy
+VND-1255,Kavitha Fruits & Juice,Fresh Produce,Katpadi,37,56,low_volume
+VND-1256,Arun Flower Stall,Electronics Repair,Vellore,32,166,growing
+VND-1257,Saravanan Milk Point,Dairy Vendor,Arcot,62,168,suspicious
+VND-1258,Divya Boutique & Cloth,Clothing Vendor,Katpadi,49,23,suspicious
+VND-1259,Saravanan Milk Point,Grocery Stall,Ranipet,58,20,low_volume
+VND-1260,Vijay Sweet & Snacks,Fresh Produce,Ranipet,50,121,healthy
+VND-1261,Suresh Tea Stall,Clothing Vendor,Ranipet,25,171,healthy
+VND-1262,Lakshmi Flower Stall,Street Snacks,Walajah,58,147,low_volume
+VND-1263,Suresh Milk Point,Florist,Ranipet,59,127,healthy
+VND-1264,Ganesh Mobile Shop,Food & Beverage,Walajah,27,93,healthy
+VND-1265,Lakshmi Sweet & Snacks,Electronics Repair,Vellore,36,118,growing
+VND-1266,Babu Sweet & Snacks,Electronics Repair,Ranipet,44,78,suspicious
+VND-1267,Venkatesh Tiffin Center,Clothing Vendor,Arcot,24,167,seasonal
+VND-1268,Karthik Vegetable Corner,Clothing Vendor,Vellore,56,179,growing
+VND-1269,Venkatesh Provision Store,Grocery Stall,Arcot,30,91,healthy
+VND-1270,Lakshmi Flower Stall,Electronics Repair,Ranipet,40,173,seasonal
+VND-1271,Venkatesh Mobile Shop,Fresh Produce,Ranipet,56,102,suspicious
+VND-1272,Karthik Mobile Shop,Fresh Produce,Walajah,53,98,healthy
+VND-1273,Ramesh Boutique & Cloth,Grocery Stall,Katpadi,34,93,growing
+VND-1274,Saravanan Fruits & Juice,Florist,Katpadi,30,25,low_volume
+VND-1275,Deepa Vegetable Corner,Food & Beverage,Ranipet,60,39,seasonal
+VND-1276,Divya Tiffin Center,Electronics Repair,Katpadi,32,165,seasonal
+VND-1277,Arun Milk Point,Food & Beverage,Walajah,44,179,seasonal
+VND-1278,Anand Milk Point,Grocery Stall,Walajah,35,142,healthy
+VND-1279,Anand Provision Store,Dairy Vendor,Katpadi,44,179,healthy
+VND-1280,Mani Milk Point,Dairy Vendor,Ranipet,45,134,irregular
+VND-1281,Ganesh Tiffin Center,Electronics Repair,Katpadi,59,41,irregular
+VND-1282,Selvam Tea Stall,Dairy Vendor,Ranipet,56,32,low_volume
+VND-1283,Ganesh Vegetable Corner,Grocery Stall,Vellore,31,75,low_volume
+VND-1284,Babu Sweet & Snacks,Electronics Repair,Walajah,26,62,growing
+VND-1285,Babu Boutique & Cloth,Food & Beverage,Walajah,24,107,growing
+VND-1286,Ganesh Boutique & Cloth,Florist,Walajah,26,101,irregular
+VND-1287,Anand Tea Stall,Clothing Vendor,Vellore,62,91,seasonal
+VND-1288,Kavitha Mobile Shop,Food & Beverage,Ranipet,51,41,seasonal
+VND-1289,Saravanan Milk Point,Food & Beverage,Vellore,22,71,irregular
+VND-1290,Priya Mobile Shop,Street Snacks,Vellore,39,66,low_volume
+VND-1291,Deepa Vegetable Corner,Food & Beverage,Katpadi,47,169,healthy
+VND-1292,Divya Milk Point,Fresh Produce,Vellore,52,158,healthy
+VND-1293,Radha Tea Stall,Florist,Katpadi,39,115,healthy
+VND-1294,Ramesh Flower Stall,Clothing Vendor,Katpadi,57,112,growing
+VND-1295,Arun Vegetable Corner,Clothing Vendor,Vellore,54,145,healthy
+VND-1296,Ganesh Sweet & Snacks,Food & Beverage,Walajah,51,17,growing
+VND-1297,Venkatesh Boutique & Cloth,Grocery Stall,Vellore,43,23,growing
+VND-1298,Vijay Fruits & Juice,Fresh Produce,Arcot,42,40,healthy
+VND-1299,Suresh Boutique & Cloth,Clothing Vendor,Katpadi,64,124,growing
+VND-1300,Saravanan Mobile Shop,Electronics Repair,Vellore,50,15,healthy
+VND-1301,Deepa Fruits & Juice,Food & Beverage,Katpadi,23,86,healthy
+VND-1302,Deepa Sweet & Snacks,Street Snacks,Arcot,51,70,irregular
+VND-1303,Suresh Fruits & Juice,Grocery Stall,Ranipet,24,173,healthy
+VND-1304,Karthik Provision Store,Fresh Produce,Ranipet,48,108,healthy
+VND-1305,Babu Tiffin Center,Clothing Vendor,Katpadi,52,133,growing
+VND-1306,Vijay Sweet & Snacks,Grocery Stall,Vellore,48,26,irregular
+VND-1307,Meena Flower Stall,Electronics Repair,Arcot,39,88,healthy
+VND-1308,Murugan Vegetable Corner,Clothing Vendor,Ranipet,40,120,seasonal
+VND-1309,Divya Tiffin Center,Electronics Repair,Walajah,43,120,healthy
+VND-1310,Suresh Boutique & Cloth,Street Snacks,Ranipet,61,20,healthy
+VND-1311,Lakshmi Tiffin Center,Clothing Vendor,Arcot,64,46,growing
+VND-1312,Ramesh Mobile Shop,Dairy Vendor,Vellore,29,23,growing
+VND-1313,Anand Boutique & Cloth,Clothing Vendor,Walajah,57,14,seasonal
+VND-1314,Divya Mobile Shop,Dairy Vendor,Ranipet,44,119,seasonal
+VND-1315,Lakshmi Flower Stall,Electronics Repair,Arcot,44,107,suspicious
+VND-1316,Karthik Provision Store,Florist,Vellore,22,53,growing
+VND-1317,Saravanan Sweet & Snacks,Street Snacks,Arcot,28,73,healthy
+VND-1318,Selvam Milk Point,Florist,Arcot,39,131,irregular
+VND-1319,Priya Vegetable Corner,Electronics Repair,Vellore,49,50,healthy
+VND-1320,Babu Vegetable Corner,Clothing Vendor,Ranipet,25,146,growing
+VND-1321,Radha Provision Store,Grocery Stall,Katpadi,65,169,healthy
+VND-1322,Arun Boutique & Cloth,Florist,Vellore,33,41,healthy
+VND-1323,Anand Milk Point,Food & Beverage,Ranipet,56,152,suspicious
+VND-1324,Vijay Milk Point,Electronics Repair,Arcot,26,22,irregular
+VND-1325,Deepa Tiffin Center,Dairy Vendor,Arcot,47,110,seasonal
+VND-1326,Mani Vegetable Corner,Electronics Repair,Ranipet,62,24,growing
+VND-1327,Babu Milk Point,Clothing Vendor,Katpadi,56,169,healthy
+VND-1328,Mani Mobile Shop,Electronics Repair,Walajah,53,20,healthy
+VND-1329,Murugan Sweet & Snacks,Electronics Repair,Ranipet,31,47,healthy
+VND-1330,Karthik Fruits & Juice,Clothing Vendor,Arcot,39,26,growing
+VND-1331,Selvam Fruits & Juice,Grocery Stall,Katpadi,61,83,seasonal
+VND-1332,Divya Sweet & Snacks,Fresh Produce,Arcot,62,49,seasonal
+VND-1333,Mani Flower Stall,Electronics Repair,Katpadi,63,165,healthy
+VND-1334,Divya Boutique & Cloth,Food & Beverage,Vellore,26,17,suspicious
+VND-1335,Mani Provision Store,Florist,Arcot,47,164,seasonal
+VND-1336,Ramesh Milk Point,Grocery Stall,Ranipet,51,68,growing
+VND-1337,Venkatesh Provision Store,Dairy Vendor,Vellore,65,21,seasonal
+VND-1338,Arun Milk Point,Street Snacks,Walajah,50,58,growing
+VND-1339,Karthik Flower Stall,Electronics Repair,Ranipet,41,94,healthy
+VND-1340,Venkatesh Mobile Shop,Clothing Vendor,Arcot,56,33,healthy
+VND-1341,Karthik Fruits & Juice,Dairy Vendor,Vellore,38,121,irregular
+VND-1342,Anand Mobile Shop,Fresh Produce,Vellore,39,104,healthy
+VND-1343,Divya Tiffin Center,Florist,Katpadi,41,153,healthy
+VND-1344,Karthik Fruits & Juice,Electronics Repair,Walajah,53,125,healthy
+VND-1345,Saravanan Provision Store,Dairy Vendor,Vellore,26,106,healthy
+VND-1346,Ganesh Milk Point,Florist,Katpadi,58,96,low_volume
+VND-1347,Suresh Tea Stall,Grocery Stall,Walajah,59,173,seasonal
+VND-1348,Saravanan Provision Store,Food & Beverage,Vellore,48,40,growing
+VND-1349,Selvam Boutique & Cloth,Street Snacks,Ranipet,23,108,healthy
+VND-1350,Suresh Flower Stall,Florist,Ranipet,56,79,growing
+VND-1351,Lakshmi Tiffin Center,Dairy Vendor,Arcot,38,165,growing
+VND-1352,Divya Vegetable Corner,Electronics Repair,Vellore,46,101,healthy
+VND-1353,Karthik Sweet & Snacks,Clothing Vendor,Katpadi,33,160,growing
+VND-1354,Ganesh Tiffin Center,Food & Beverage,Vellore,23,41,healthy
+VND-1355,Karthik Milk Point,Dairy Vendor,Katpadi,59,137,seasonal
+VND-1356,Kavitha Boutique & Cloth,Clothing Vendor,Katpadi,46,163,seasonal
+VND-1357,Deepa Flower Stall,Clothing Vendor,Arcot,53,142,healthy
+VND-1358,Saravanan Flower Stall,Grocery Stall,Walajah,22,100,healthy
+VND-1359,Karthik Vegetable Corner,Street Snacks,Arcot,40,167,seasonal
+VND-1360,Ramesh Flower Stall,Dairy Vendor,Ranipet,62,154,growing
+VND-1361,Mani Fruits & Juice,Food & Beverage,Arcot,51,49,low_volume
+VND-1362,Ganesh Flower Stall,Street Snacks,Katpadi,64,68,seasonal
+VND-1363,Suresh Flower Stall,Fresh Produce,Katpadi,22,118,healthy
+VND-1364,Karthik Tiffin Center,Electronics Repair,Walajah,65,58,healthy
+VND-1365,Meena Sweet & Snacks,Dairy Vendor,Vellore,29,138,seasonal
+VND-1366,Priya Sweet & Snacks,Clothing Vendor,Walajah,54,102,healthy
+VND-1367,Karthik Mobile Shop,Dairy Vendor,Arcot,42,145,growing
+VND-1368,Vijay Provision Store,Dairy Vendor,Katpadi,36,77,suspicious
+VND-1369,Radha Provision Store,Florist,Ranipet,39,59,growing
+VND-1370,Saravanan Boutique & Cloth,Dairy Vendor,Ranipet,56,76,healthy
+VND-1371,Deepa Vegetable Corner,Street Snacks,Walajah,43,43,seasonal
+VND-1372,Deepa Tea Stall,Grocery Stall,Vellore,43,119,growing
+VND-1373,Selvam Milk Point,Florist,Katpadi,55,75,growing
+VND-1374,Radha Provision Store,Electronics Repair,Vellore,60,156,suspicious
+VND-1375,Anand Fruits & Juice,Food & Beverage,Arcot,35,169,healthy
+VND-1376,Anand Tea Stall,Fresh Produce,Walajah,42,126,suspicious
+VND-1377,Murugan Mobile Shop,Food & Beverage,Arcot,31,110,low_volume
+VND-1378,Saravanan Milk Point,Florist,Ranipet,41,79,healthy
+VND-1379,Suresh Vegetable Corner,Florist,Arcot,23,50,healthy
+VND-1380,Meena Mobile Shop,Food & Beverage,Walajah,52,53,healthy
+VND-1381,Deepa Tea Stall,Food & Beverage,Ranipet,57,160,healthy
+VND-1382,Murugan Boutique & Cloth,Grocery Stall,Walajah,62,145,healthy
+VND-1383,Ganesh Milk Point,Electronics Repair,Arcot,50,75,seasonal
+VND-1384,Priya Vegetable Corner,Clothing Vendor,Katpadi,50,171,healthy
+VND-1385,Selvam Mobile Shop,Food & Beverage,Ranipet,39,151,healthy
+VND-1386,Priya Mobile Shop,Street Snacks,Walajah,53,89,irregular
+VND-1387,Lakshmi Tiffin Center,Fresh Produce,Katpadi,29,128,healthy
+VND-1388,Karthik Fruits & Juice,Food & Beverage,Ranipet,45,66,irregular
+VND-1389,Babu Provision Store,Clothing Vendor,Ranipet,58,152,healthy
+VND-1390,Ramesh Provision Store,Clothing Vendor,Katpadi,24,176,healthy
+VND-1391,Murugan Milk Point,Grocery Stall,Katpadi,46,134,seasonal
+VND-1392,Deepa Vegetable Corner,Grocery Stall,Ranipet,60,62,seasonal
+VND-1393,Anand Mobile Shop,Dairy Vendor,Katpadi,50,161,low_volume
+VND-1394,Vijay Tiffin Center,Dairy Vendor,Arcot,63,61,seasonal
+VND-1395,Anand Flower Stall,Fresh Produce,Arcot,49,141,irregular
+VND-1396,Vijay Vegetable Corner,Fresh Produce,Vellore,56,135,healthy
+VND-1397,Priya Flower Stall,Electronics Repair,Katpadi,41,139,healthy
+VND-1398,Babu Vegetable Corner,Florist,Arcot,52,29,irregular
+VND-1399,Ganesh Milk Point,Food & Beverage,Walajah,29,137,irregular
+VND-1400,Meena Milk Point,Food & Beverage,Arcot,50,178,suspicious
+VND-1401,Deepa Tea Stall,Street Snacks,Ranipet,21,61,growing
+VND-1402,Mani Vegetable Corner,Food & Beverage,Walajah,43,22,healthy
+VND-1403,Radha Tea Stall,Fresh Produce,Walajah,23,79,irregular
+VND-1404,Meena Mobile Shop,Electronics Repair,Walajah,44,103,healthy
+VND-1405,Babu Tiffin Center,Street Snacks,Vellore,64,175,suspicious
+VND-1406,Radha Mobile Shop,Clothing Vendor,Vellore,32,143,low_volume
+VND-1407,Venkatesh Sweet & Snacks,Electronics Repair,Katpadi,21,11,growing
+VND-1408,Deepa Milk Point,Street Snacks,Arcot,45,64,irregular
+VND-1409,Anand Milk Point,Clothing Vendor,Katpadi,38,54,irregular
+VND-1410,Murugan Tea Stall,Street Snacks,Arcot,22,67,healthy
+VND-1411,Priya Vegetable Corner,Fresh Produce,Arcot,23,120,low_volume
+VND-1412,Divya Tea Stall,Florist,Vellore,46,118,growing
+VND-1413,Anand Sweet & Snacks,Florist,Vellore,29,134,irregular
+VND-1414,Deepa Fruits & Juice,Clothing Vendor,Arcot,59,178,healthy
+VND-1415,Karthik Fruits & Juice,Grocery Stall,Katpadi,63,139,low_volume
+VND-1416,Anand Tiffin Center,Grocery Stall,Ranipet,24,148,healthy
+VND-1417,Mani Mobile Shop,Street Snacks,Arcot,52,18,healthy
+VND-1418,Vijay Tiffin Center,Clothing Vendor,Walajah,47,44,low_volume
+VND-1419,Deepa Tiffin Center,Electronics Repair,Arcot,51,67,healthy
+VND-1420,Anand Provision Store,Electronics Repair,Walajah,24,149,healthy
+VND-1421,Meena Tiffin Center,Electronics Repair,Walajah,36,71,suspicious
+VND-1422,Priya Boutique & Cloth,Fresh Produce,Walajah,44,29,suspicious
+VND-1423,Radha Fruits & Juice,Food & Beverage,Ranipet,45,178,growing
+VND-1424,Divya Flower Stall,Food & Beverage,Vellore,33,156,seasonal
+VND-1425,Radha Fruits & Juice,Dairy Vendor,Katpadi,42,83,growing
+VND-1426,Ramesh Fruits & Juice,Florist,Vellore,51,68,healthy
+VND-1427,Divya Fruits & Juice,Street Snacks,Katpadi,56,88,healthy
+VND-1428,Deepa Tiffin Center,Dairy Vendor,Arcot,62,97,seasonal
+VND-1429,Deepa Provision Store,Clothing Vendor,Arcot,52,125,irregular
+VND-1430,Murugan Milk Point,Clothing Vendor,Katpadi,44,86,irregular
+VND-1431,Meena Tea Stall,Florist,Katpadi,22,72,irregular
+VND-1432,Radha Flower Stall,Street Snacks,Ranipet,30,56,healthy
+VND-1433,Karthik Fruits & Juice,Street Snacks,Arcot,36,133,growing
+VND-1434,Radha Boutique & Cloth,Grocery Stall,Walajah,62,131,healthy
+VND-1435,Babu Mobile Shop,Clothing Vendor,Katpadi,29,145,growing
+VND-1436,Saravanan Mobile Shop,Food & Beverage,Arcot,23,25,growing
+VND-1437,Suresh Tea Stall,Street Snacks,Katpadi,61,65,low_volume
+VND-1438,Lakshmi Mobile Shop,Food & Beverage,Katpadi,53,122,healthy
+VND-1439,Vijay Tea Stall,Dairy Vendor,Walajah,22,7,healthy
+VND-1440,Radha Sweet & Snacks,Street Snacks,Vellore,22,141,healthy
+VND-1441,Selvam Sweet & Snacks,Grocery Stall,Vellore,53,178,irregular
+VND-1442,Meena Mobile Shop,Fresh Produce,Vellore,54,44,seasonal
+VND-1443,Anand Fruits & Juice,Grocery Stall,Ranipet,38,107,healthy
+VND-1444,Lakshmi Boutique & Cloth,Street Snacks,Walajah,57,68,healthy
+VND-1445,Anand Provision Store,Fresh Produce,Vellore,26,109,seasonal
+VND-1446,Venkatesh Tiffin Center,Dairy Vendor,Vellore,61,8,healthy
+VND-1447,Arun Vegetable Corner,Dairy Vendor,Walajah,62,90,irregular
+VND-1448,Mani Vegetable Corner,Food & Beverage,Katpadi,34,151,seasonal
+VND-1449,Saravanan Provision Store,Food & Beverage,Vellore,64,77,healthy
+VND-1450,Radha Flower Stall,Food & Beverage,Katpadi,41,10,healthy
+VND-1451,Priya Flower Stall,Electronics Repair,Walajah,25,82,suspicious
+VND-1452,Arun Flower Stall,Florist,Arcot,45,179,healthy
+VND-1453,Radha Boutique & Cloth,Street Snacks,Katpadi,65,26,healthy
+VND-1454,Ganesh Boutique & Cloth,Food & Beverage,Vellore,48,65,irregular
+VND-1455,Lakshmi Boutique & Cloth,Street Snacks,Ranipet,22,168,suspicious
+VND-1456,Selvam Milk Point,Dairy Vendor,Katpadi,43,147,suspicious
+VND-1457,Venkatesh Tiffin Center,Electronics Repair,Arcot,63,103,irregular
+VND-1458,Lakshmi Flower Stall,Grocery Stall,Katpadi,25,27,healthy
+VND-1459,Selvam Mobile Shop,Street Snacks,Katpadi,45,87,healthy
+VND-1460,Vijay Vegetable Corner,Fresh Produce,Vellore,40,119,irregular
+VND-1461,Vijay Provision Store,Fresh Produce,Katpadi,26,53,growing
+VND-1462,Meena Milk Point,Street Snacks,Vellore,22,28,growing
+VND-1463,Vijay Sweet & Snacks,Fresh Produce,Arcot,59,89,low_volume
+VND-1464,Venkatesh Tea Stall,Grocery Stall,Walajah,45,27,healthy
+VND-1465,Radha Fruits & Juice,Electronics Repair,Walajah,31,41,growing
+VND-1466,Selvam Provision Store,Grocery Stall,Walajah,30,22,healthy
+VND-1467,Arun Tiffin Center,Grocery Stall,Walajah,40,129,growing
+VND-1468,Lakshmi Boutique & Cloth,Grocery Stall,Katpadi,61,132,healthy
+VND-1469,Divya Flower Stall,Florist,Walajah,27,40,healthy
+VND-1470,Deepa Tea Stall,Street Snacks,Ranipet,60,103,healthy
+VND-1471,Karthik Milk Point,Clothing Vendor,Walajah,62,158,seasonal
+VND-1472,Kavitha Provision Store,Clothing Vendor,Arcot,65,57,seasonal
+VND-1473,Saravanan Boutique & Cloth,Electronics Repair,Walajah,41,80,growing
+VND-1474,Saravanan Flower Stall,Florist,Ranipet,45,77,suspicious
+VND-1475,Venkatesh Boutique & Cloth,Fresh Produce,Arcot,33,157,healthy
+VND-1476,Radha Mobile Shop,Food & Beverage,Walajah,34,118,healthy
+VND-1477,Deepa Vegetable Corner,Street Snacks,Walajah,29,168,low_volume
+VND-1478,Deepa Fruits & Juice,Grocery Stall,Katpadi,48,102,healthy
+VND-1479,Lakshmi Milk Point,Dairy Vendor,Arcot,46,142,suspicious
+VND-1480,Ganesh Tiffin Center,Food & Beverage,Ranipet,65,143,healthy
+VND-1481,Divya Vegetable Corner,Fresh Produce,Katpadi,63,176,suspicious
+VND-1482,Vijay Mobile Shop,Food & Beverage,Arcot,62,179,healthy
+VND-1483,Venkatesh Boutique & Cloth,Street Snacks,Vellore,21,31,low_volume
+VND-1484,Selvam Fruits & Juice,Florist,Walajah,44,106,growing
+VND-1485,Babu Flower Stall,Electronics Repair,Ranipet,22,129,suspicious
+VND-1486,Murugan Provision Store,Street Snacks,Vellore,28,42,healthy
+VND-1487,Vijay Provision Store,Clothing Vendor,Walajah,34,139,growing
+VND-1488,Saravanan Boutique & Cloth,Dairy Vendor,Vellore,49,121,suspicious
+VND-1489,Karthik Vegetable Corner,Grocery Stall,Vellore,28,11,growing
+VND-1490,Karthik Vegetable Corner,Electronics Repair,Katpadi,54,50,seasonal
+VND-1491,Radha Mobile Shop,Clothing Vendor,Arcot,48,124,seasonal
+VND-1492,Anand Tiffin Center,Electronics Repair,Katpadi,61,174,growing
+VND-1493,Meena Tiffin Center,Food & Beverage,Arcot,33,121,seasonal
+VND-1494,Mani Tiffin Center,Street Snacks,Vellore,34,58,growing
+VND-1495,Selvam Vegetable Corner,Fresh Produce,Arcot,32,99,low_volume
+VND-1496,Karthik Fruits & Juice,Dairy Vendor,Vellore,37,177,healthy
+VND-1497,Saravanan Sweet & Snacks,Clothing Vendor,Arcot,45,162,healthy
+VND-1498,Venkatesh Flower Stall,Fresh Produce,Ranipet,43,123,suspicious
+VND-1499,Divya Mobile Shop,Grocery Stall,Arcot,58,27,low_volume
+VND-1500,Kavitha Boutique & Cloth,Fresh Produce,Katpadi,40,35,growing
+VND-1501,Arun Boutique & Cloth,Electronics Repair,Arcot,45,113,seasonal
+VND-1502,Divya Mobile Shop,Street Snacks,Walajah,32,130,healthy
+VND-1503,Radha Mobile Shop,Electronics Repair,Walajah,39,41,healthy
+VND-1504,Arun Boutique & Cloth,Dairy Vendor,Arcot,24,97,growing
+VND-1505,Ramesh Milk Point,Electronics Repair,Katpadi,45,149,healthy
+VND-1506,Ganesh Milk Point,Street Snacks,Walajah,47,119,growing
+VND-1507,Saravanan Mobile Shop,Fresh Produce,Arcot,22,62,healthy
+VND-1508,Deepa Tea Stall,Grocery Stall,Katpadi,55,79,suspicious
+VND-1509,Arun Milk Point,Dairy Vendor,Arcot,53,34,suspicious
+VND-1510,Mani Vegetable Corner,Grocery Stall,Arcot,44,144,seasonal
+VND-1511,Suresh Milk Point,Florist,Walajah,27,173,growing
+VND-1512,Anand Provision Store,Food & Beverage,Walajah,37,95,healthy
+VND-1513,Lakshmi Milk Point,Fresh Produce,Katpadi,34,156,irregular
+VND-1514,Vijay Flower Stall,Street Snacks,Katpadi,60,41,seasonal
+VND-1515,Priya Fruits & Juice,Food & Beverage,Arcot,43,142,healthy
+VND-1516,Selvam Flower Stall,Electronics Repair,Ranipet,39,80,low_volume
+VND-1517,Mani Provision Store,Fresh Produce,Katpadi,47,21,irregular
+VND-1518,Selvam Mobile Shop,Electronics Repair,Katpadi,30,88,suspicious
+VND-1519,Anand Tiffin Center,Dairy Vendor,Katpadi,57,167,seasonal
+VND-1520,Selvam Tiffin Center,Street Snacks,Walajah,25,168,seasonal
+VND-1521,Lakshmi Tiffin Center,Grocery Stall,Ranipet,50,130,growing
+VND-1522,Karthik Flower Stall,Food & Beverage,Vellore,50,168,suspicious
+VND-1523,Vijay Vegetable Corner,Street Snacks,Katpadi,48,60,low_volume
+VND-1524,Saravanan Provision Store,Clothing Vendor,Ranipet,42,146,healthy
+VND-1525,Mani Mobile Shop,Dairy Vendor,Ranipet,64,18,healthy
+VND-1526,Suresh Vegetable Corner,Dairy Vendor,Vellore,28,46,healthy
+VND-1527,Babu Milk Point,Food & Beverage,Walajah,33,39,irregular
+VND-1528,Deepa Mobile Shop,Grocery Stall,Vellore,62,98,suspicious
+VND-1529,Selvam Vegetable Corner,Clothing Vendor,Katpadi,24,107,healthy
+VND-1530,Deepa Fruits & Juice,Street Snacks,Vellore,27,6,growing
+VND-1531,Priya Milk Point,Fresh Produce,Katpadi,58,63,healthy
+VND-1532,Ganesh Milk Point,Food & Beverage,Vellore,65,93,suspicious
+VND-1533,Murugan Tiffin Center,Electronics Repair,Walajah,25,64,irregular
+VND-1534,Venkatesh Vegetable Corner,Fresh Produce,Vellore,41,100,irregular
+VND-1535,Deepa Mobile Shop,Street Snacks,Katpadi,62,179,growing
+VND-1536,Kavitha Vegetable Corner,Food & Beverage,Arcot,62,48,growing
+VND-1537,Babu Boutique & Cloth,Florist,Katpadi,47,163,healthy
+VND-1538,Babu Fruits & Juice,Fresh Produce,Vellore,29,37,healthy
+VND-1539,Mani Tiffin Center,Clothing Vendor,Walajah,41,41,low_volume
+VND-1540,Anand Provision Store,Fresh Produce,Katpadi,56,159,irregular
+VND-1541,Divya Flower Stall,Grocery Stall,Vellore,63,83,suspicious
+VND-1542,Priya Sweet & Snacks,Florist,Walajah,39,171,suspicious
+VND-1543,Suresh Fruits & Juice,Dairy Vendor,Walajah,28,67,growing
+VND-1544,Saravanan Flower Stall,Fresh Produce,Arcot,21,98,irregular
+VND-1545,Karthik Mobile Shop,Street Snacks,Arcot,47,99,suspicious
+VND-1546,Radha Mobile Shop,Dairy Vendor,Vellore,22,156,irregular
+VND-1547,Lakshmi Tea Stall,Grocery Stall,Katpadi,23,21,healthy
+VND-1548,Venkatesh Sweet & Snacks,Grocery Stall,Arcot,47,114,growing
+VND-1549,Venkatesh Vegetable Corner,Electronics Repair,Ranipet,26,85,healthy
+VND-1550,Lakshmi Sweet & Snacks,Florist,Katpadi,55,89,suspicious
+VND-1551,Venkatesh Flower Stall,Fresh Produce,Ranipet,65,117,seasonal
+VND-1552,Anand Tea Stall,Florist,Vellore,48,35,healthy
+VND-1553,Babu Flower Stall,Food & Beverage,Ranipet,63,174,seasonal
+VND-1554,Arun Vegetable Corner,Food & Beverage,Katpadi,65,8,seasonal
+VND-1555,Arun Milk Point,Clothing Vendor,Arcot,54,72,healthy
+VND-1556,Arun Boutique & Cloth,Electronics Repair,Ranipet,28,13,healthy
+VND-1557,Karthik Tiffin Center,Grocery Stall,Arcot,25,73,seasonal
+VND-1558,Mani Vegetable Corner,Dairy Vendor,Walajah,53,98,growing
+VND-1559,Suresh Milk Point,Electronics Repair,Ranipet,31,71,irregular
+VND-1560,Murugan Flower Stall,Fresh Produce,Katpadi,53,6,growing
+VND-1561,Suresh Tea Stall,Florist,Vellore,51,99,low_volume
+VND-1562,Venkatesh Mobile Shop,Electronics Repair,Vellore,56,173,growing
+VND-1563,Meena Fruits & Juice,Clothing Vendor,Katpadi,47,87,growing
+VND-1564,Selvam Vegetable Corner,Clothing Vendor,Vellore,53,178,low_volume
+VND-1565,Suresh Mobile Shop,Florist,Arcot,23,108,growing
+VND-1566,Lakshmi Milk Point,Grocery Stall,Ranipet,41,28,healthy
+VND-1567,Radha Milk Point,Food & Beverage,Ranipet,33,80,healthy
+VND-1568,Mani Provision Store,Florist,Walajah,44,157,irregular
+VND-1569,Saravanan Fruits & Juice,Florist,Katpadi,21,110,seasonal
+VND-1570,Ramesh Fruits & Juice,Clothing Vendor,Vellore,42,6,seasonal
+VND-1571,Venkatesh Provision Store,Fresh Produce,Katpadi,54,66,healthy
+VND-1572,Meena Milk Point,Food & Beverage,Katpadi,38,29,healthy
+VND-1573,Suresh Fruits & Juice,Street Snacks,Ranipet,50,27,healthy
+VND-1574,Mani Vegetable Corner,Electronics Repair,Walajah,25,157,healthy
+VND-1575,Mani Tea Stall,Street Snacks,Katpadi,36,80,growing
+VND-1576,Selvam Boutique & Cloth,Street Snacks,Ranipet,41,121,healthy
+VND-1577,Selvam Fruits & Juice,Fresh Produce,Katpadi,29,155,growing
+VND-1578,Murugan Mobile Shop,Fresh Produce,Katpadi,49,125,low_volume
+VND-1579,Karthik Tiffin Center,Fresh Produce,Arcot,43,59,healthy
+VND-1580,Babu Provision Store,Dairy Vendor,Ranipet,28,29,growing
+VND-1581,Arun Provision Store,Food & Beverage,Katpadi,41,43,irregular
+VND-1582,Lakshmi Fruits & Juice,Clothing Vendor,Walajah,53,18,healthy
+VND-1583,Deepa Provision Store,Electronics Repair,Vellore,46,121,seasonal
+VND-1584,Radha Sweet & Snacks,Florist,Vellore,50,32,low_volume
+VND-1585,Kavitha Vegetable Corner,Food & Beverage,Vellore,35,39,suspicious
+VND-1586,Priya Tiffin Center,Clothing Vendor,Vellore,58,156,healthy
+VND-1587,Selvam Vegetable Corner,Food & Beverage,Vellore,33,171,low_volume
+VND-1588,Babu Mobile Shop,Fresh Produce,Ranipet,28,16,growing
+VND-1589,Babu Tea Stall,Electronics Repair,Arcot,48,107,healthy
+VND-1590,Saravanan Tea Stall,Street Snacks,Walajah,32,96,growing
+VND-1591,Priya Mobile Shop,Grocery Stall,Ranipet,49,44,suspicious
+VND-1592,Suresh Flower Stall,Florist,Ranipet,52,111,growing
+VND-1593,Radha Milk Point,Food & Beverage,Vellore,38,104,healthy
+VND-1594,Kavitha Tiffin Center,Florist,Arcot,36,167,seasonal
+VND-1595,Radha Tea Stall,Street Snacks,Ranipet,51,145,healthy
+VND-1596,Saravanan Boutique & Cloth,Clothing Vendor,Walajah,38,52,healthy
+VND-1597,Ramesh Boutique & Cloth,Florist,Vellore,38,20,healthy
+VND-1598,Saravanan Sweet & Snacks,Clothing Vendor,Arcot,35,46,healthy
+VND-1599,Murugan Fruits & Juice,Florist,Ranipet,55,20,healthy
+VND-1600,Anand Flower Stall,Street Snacks,Ranipet,32,51,healthy
+VND-1601,Anand Flower Stall,Clothing Vendor,Ranipet,58,13,seasonal
+VND-1602,Vijay Flower Stall,Electronics Repair,Arcot,33,132,healthy
+VND-1603,Radha Provision Store,Electronics Repair,Walajah,23,29,healthy
+VND-1604,Suresh Fruits & Juice,Florist,Vellore,54,128,low_volume
+VND-1605,Ramesh Boutique & Cloth,Florist,Katpadi,42,51,growing
+VND-1606,Karthik Tea Stall,Food & Beverage,Katpadi,58,42,seasonal
+VND-1607,Murugan Sweet & Snacks,Clothing Vendor,Vellore,44,175,healthy
+VND-1608,Venkatesh Flower Stall,Fresh Produce,Ranipet,40,88,healthy
+VND-1609,Kavitha Mobile Shop,Street Snacks,Walajah,62,87,healthy
+VND-1610,Arun Sweet & Snacks,Clothing Vendor,Katpadi,63,156,healthy
+VND-1611,Arun Tiffin Center,Grocery Stall,Ranipet,29,51,healthy
+VND-1612,Ramesh Flower Stall,Street Snacks,Arcot,23,52,healthy
+VND-1613,Divya Boutique & Cloth,Florist,Arcot,27,133,healthy
+VND-1614,Kavitha Boutique & Cloth,Fresh Produce,Katpadi,43,87,healthy
+VND-1615,Arun Vegetable Corner,Clothing Vendor,Walajah,21,73,growing
+VND-1616,Priya Fruits & Juice,Fresh Produce,Ranipet,37,33,healthy
+VND-1617,Ramesh Tea Stall,Street Snacks,Walajah,47,48,healthy
+VND-1618,Meena Milk Point,Street Snacks,Ranipet,55,102,growing
+VND-1619,Murugan Milk Point,Florist,Katpadi,49,24,seasonal
+VND-1620,Suresh Provision Store,Food & Beverage,Ranipet,37,32,healthy
+VND-1621,Lakshmi Boutique & Cloth,Electronics Repair,Walajah,31,25,irregular
+VND-1622,Radha Vegetable Corner,Clothing Vendor,Arcot,60,129,seasonal
+VND-1623,Ramesh Tiffin Center,Electronics Repair,Arcot,48,46,healthy
+VND-1624,Suresh Vegetable Corner,Clothing Vendor,Katpadi,33,110,low_volume
+VND-1625,Radha Sweet & Snacks,Grocery Stall,Ranipet,40,66,low_volume
+VND-1626,Murugan Tea Stall,Street Snacks,Arcot,56,131,healthy
+VND-1627,Kavitha Tea Stall,Clothing Vendor,Vellore,48,28,healthy
+VND-1628,Deepa Flower Stall,Dairy Vendor,Katpadi,27,12,irregular
+VND-1629,Priya Mobile Shop,Grocery Stall,Vellore,51,35,seasonal
+VND-1630,Deepa Tiffin Center,Dairy Vendor,Walajah,63,73,healthy
+VND-1631,Lakshmi Sweet & Snacks,Street Snacks,Katpadi,44,103,healthy
+VND-1632,Vijay Mobile Shop,Dairy Vendor,Vellore,37,118,healthy
+VND-1633,Babu Provision Store,Florist,Ranipet,57,21,growing
+VND-1634,Kavitha Vegetable Corner,Fresh Produce,Ranipet,55,111,seasonal
+VND-1635,Mani Fruits & Juice,Food & Beverage,Walajah,54,113,healthy
+VND-1636,Radha Milk Point,Florist,Walajah,40,26,growing
+VND-1637,Venkatesh Tea Stall,Electronics Repair,Vellore,49,50,seasonal
+VND-1638,Arun Fruits & Juice,Florist,Katpadi,23,114,healthy
+VND-1639,Lakshmi Tiffin Center,Florist,Katpadi,59,72,healthy
+VND-1640,Karthik Vegetable Corner,Fresh Produce,Walajah,56,107,seasonal
+VND-1641,Radha Boutique & Cloth,Grocery Stall,Arcot,50,9,low_volume
+VND-1642,Divya Flower Stall,Street Snacks,Vellore,47,44,growing
+VND-1643,Kavitha Flower Stall,Fresh Produce,Vellore,57,31,growing
+VND-1644,Deepa Sweet & Snacks,Clothing Vendor,Walajah,37,104,healthy
+VND-1645,Saravanan Flower Stall,Dairy Vendor,Vellore,32,76,growing
+VND-1646,Venkatesh Mobile Shop,Street Snacks,Vellore,46,90,growing
+VND-1647,Anand Tea Stall,Dairy Vendor,Ranipet,44,11,healthy
+VND-1648,Karthik Provision Store,Grocery Stall,Ranipet,52,31,healthy
+VND-1649,Anand Mobile Shop,Grocery Stall,Walajah,41,74,healthy
+VND-1650,Meena Flower Stall,Fresh Produce,Katpadi,49,60,healthy
+VND-1651,Meena Milk Point,Clothing Vendor,Vellore,53,46,healthy
+VND-1652,Lakshmi Provision Store,Street Snacks,Katpadi,54,151,healthy
+VND-1653,Ramesh Mobile Shop,Florist,Katpadi,24,69,healthy
+VND-1654,Suresh Milk Point,Food & Beverage,Ranipet,33,76,healthy
+VND-1655,Vijay Milk Point,Street Snacks,Vellore,64,13,low_volume
+VND-1656,Anand Boutique & Cloth,Dairy Vendor,Arcot,49,51,growing
+VND-1657,Saravanan Flower Stall,Clothing Vendor,Ranipet,31,72,seasonal
+VND-1658,Lakshmi Provision Store,Food & Beverage,Walajah,24,47,irregular
+VND-1659,Mani Fruits & Juice,Florist,Katpadi,64,58,growing
+VND-1660,Selvam Tiffin Center,Food & Beverage,Vellore,51,39,healthy
+VND-1661,Arun Flower Stall,Food & Beverage,Katpadi,37,161,growing
+VND-1662,Deepa Provision Store,Street Snacks,Walajah,43,123,growing
+VND-1663,Selvam Fruits & Juice,Dairy Vendor,Ranipet,64,139,seasonal
+VND-1664,Divya Tiffin Center,Fresh Produce,Vellore,53,175,growing
+VND-1665,Vijay Sweet & Snacks,Grocery Stall,Ranipet,64,33,healthy
+VND-1666,Saravanan Vegetable Corner,Clothing Vendor,Ranipet,61,89,healthy
+VND-1667,Selvam Provision Store,Grocery Stall,Katpadi,30,138,healthy
+VND-1668,Anand Tea Stall,Street Snacks,Ranipet,64,41,seasonal
+VND-1669,Ramesh Milk Point,Grocery Stall,Ranipet,47,109,growing
+VND-1670,Venkatesh Tea Stall,Florist,Ranipet,35,142,healthy
+VND-1671,Saravanan Boutique & Cloth,Grocery Stall,Katpadi,63,148,suspicious
+VND-1672,Arun Provision Store,Fresh Produce,Walajah,29,72,seasonal
+VND-1673,Radha Mobile Shop,Clothing Vendor,Vellore,35,96,healthy
+VND-1674,Anand Provision Store,Street Snacks,Ranipet,44,72,healthy
+VND-1675,Mani Provision Store,Dairy Vendor,Vellore,51,19,healthy
+VND-1676,Mani Flower Stall,Fresh Produce,Walajah,33,134,healthy
+VND-1677,Murugan Tiffin Center,Grocery Stall,Walajah,24,44,healthy
+VND-1678,Kavitha Fruits & Juice,Clothing Vendor,Walajah,57,123,healthy
+VND-1679,Kavitha Boutique & Cloth,Electronics Repair,Vellore,52,91,healthy
+VND-1680,Arun Boutique & Cloth,Food & Beverage,Vellore,49,76,healthy
+VND-1681,Priya Mobile Shop,Electronics Repair,Walajah,26,39,low_volume
+VND-1682,Divya Tiffin Center,Street Snacks,Walajah,48,128,healthy
+VND-1683,Venkatesh Tea Stall,Food & Beverage,Arcot,33,101,growing
+VND-1684,Ramesh Boutique & Cloth,Florist,Vellore,64,7,growing
+VND-1685,Anand Fruits & Juice,Clothing Vendor,Ranipet,29,32,suspicious
+VND-1686,Venkatesh Sweet & Snacks,Grocery Stall,Katpadi,25,17,healthy
+VND-1687,Deepa Provision Store,Dairy Vendor,Arcot,59,140,healthy
+VND-1688,Karthik Tiffin Center,Electronics Repair,Ranipet,52,97,suspicious
+VND-1689,Priya Mobile Shop,Street Snacks,Vellore,35,63,low_volume
+VND-1690,Kavitha Fruits & Juice,Food & Beverage,Arcot,53,49,irregular
+VND-1691,Murugan Boutique & Cloth,Food & Beverage,Walajah,61,71,healthy
+VND-1692,Radha Flower Stall,Food & Beverage,Arcot,24,175,healthy
+VND-1693,Murugan Tea Stall,Food & Beverage,Vellore,47,119,seasonal
+VND-1694,Venkatesh Vegetable Corner,Grocery Stall,Walajah,65,45,low_volume
+VND-1695,Priya Tea Stall,Grocery Stall,Walajah,63,31,growing
+VND-1696,Ganesh Provision Store,Electronics Repair,Walajah,27,136,growing
+VND-1697,Divya Vegetable Corner,Grocery Stall,Vellore,27,133,healthy
+VND-1698,Priya Flower Stall,Florist,Ranipet,54,57,irregular
+VND-1699,Vijay Tiffin Center,Grocery Stall,Katpadi,23,146,healthy
+VND-1700,Saravanan Fruits & Juice,Dairy Vendor,Ranipet,36,6,healthy
+VND-1701,Ramesh Vegetable Corner,Fresh Produce,Arcot,63,132,growing
+VND-1702,Kavitha Vegetable Corner,Fresh Produce,Vellore,37,170,growing
+VND-1703,Anand Milk Point,Grocery Stall,Ranipet,50,18,healthy
+VND-1704,Murugan Mobile Shop,Food & Beverage,Ranipet,44,179,healthy
+VND-1705,Karthik Tiffin Center,Fresh Produce,Vellore,23,8,seasonal
+VND-1706,Kavitha Mobile Shop,Clothing Vendor,Ranipet,49,165,healthy
+VND-1707,Selvam Vegetable Corner,Clothing Vendor,Ranipet,32,35,growing
+VND-1708,Venkatesh Tiffin Center,Dairy Vendor,Ranipet,45,128,healthy
+VND-1709,Meena Mobile Shop,Fresh Produce,Katpadi,65,21,growing
+VND-1710,Arun Vegetable Corner,Street Snacks,Arcot,51,151,growing
+VND-1711,Babu Mobile Shop,Street Snacks,Ranipet,60,13,healthy
+VND-1712,Kavitha Milk Point,Dairy Vendor,Vellore,47,118,healthy
+VND-1713,Suresh Vegetable Corner,Grocery Stall,Ranipet,21,179,healthy
+VND-1714,Ganesh Flower Stall,Florist,Ranipet,54,139,healthy
+VND-1715,Divya Vegetable Corner,Street Snacks,Katpadi,51,94,suspicious
+VND-1716,Venkatesh Mobile Shop,Food & Beverage,Vellore,62,46,healthy
+VND-1717,Ganesh Milk Point,Dairy Vendor,Katpadi,25,131,irregular
+VND-1718,Karthik Fruits & Juice,Clothing Vendor,Ranipet,24,135,healthy
+VND-1719,Anand Sweet & Snacks,Street Snacks,Walajah,36,26,seasonal
+VND-1720,Babu Milk Point,Dairy Vendor,Vellore,52,120,irregular
+VND-1721,Karthik Vegetable Corner,Dairy Vendor,Vellore,27,109,growing
+VND-1722,Meena Tea Stall,Food & Beverage,Vellore,59,164,growing
+VND-1723,Deepa Sweet & Snacks,Florist,Walajah,42,99,growing
+VND-1724,Suresh Fruits & Juice,Dairy Vendor,Ranipet,56,164,healthy
+VND-1725,Divya Milk Point,Clothing Vendor,Walajah,28,30,low_volume
+VND-1726,Anand Tea Stall,Clothing Vendor,Ranipet,61,80,irregular
+VND-1727,Radha Sweet & Snacks,Clothing Vendor,Vellore,23,48,suspicious
+VND-1728,Saravanan Mobile Shop,Street Snacks,Vellore,37,162,healthy
+VND-1729,Priya Fruits & Juice,Fresh Produce,Walajah,34,123,seasonal
+VND-1730,Priya Boutique & Cloth,Fresh Produce,Walajah,23,168,suspicious
+VND-1731,Mani Vegetable Corner,Dairy Vendor,Walajah,63,156,healthy
+VND-1732,Ganesh Mobile Shop,Dairy Vendor,Vellore,54,18,healthy
+VND-1733,Radha Tiffin Center,Dairy Vendor,Arcot,32,154,seasonal
+VND-1734,Arun Mobile Shop,Fresh Produce,Walajah,63,159,growing
+VND-1735,Divya Boutique & Cloth,Street Snacks,Walajah,59,69,irregular
+VND-1736,Selvam Tiffin Center,Clothing Vendor,Ranipet,49,40,healthy
+VND-1737,Kavitha Tiffin Center,Grocery Stall,Arcot,41,147,irregular
+VND-1738,Priya Fruits & Juice,Florist,Arcot,39,94,healthy
+VND-1739,Kavitha Mobile Shop,Clothing Vendor,Vellore,43,149,healthy
+VND-1740,Saravanan Flower Stall,Street Snacks,Arcot,39,114,healthy
+VND-1741,Ramesh Sweet & Snacks,Fresh Produce,Vellore,45,43,irregular
+VND-1742,Suresh Tea Stall,Florist,Ranipet,31,79,seasonal
+VND-1743,Selvam Mobile Shop,Food & Beverage,Ranipet,34,144,growing
+VND-1744,Suresh Boutique & Cloth,Dairy Vendor,Vellore,60,178,healthy
+VND-1745,Radha Fruits & Juice,Street Snacks,Katpadi,53,79,low_volume
+VND-1746,Suresh Tiffin Center,Street Snacks,Walajah,64,86,healthy
+VND-1747,Radha Tea Stall,Food & Beverage,Ranipet,33,164,irregular
+VND-1748,Babu Fruits & Juice,Clothing Vendor,Arcot,55,160,growing
+VND-1749,Priya Fruits & Juice,Grocery Stall,Walajah,32,180,healthy
+VND-1750,Lakshmi Mobile Shop,Electronics Repair,Arcot,28,102,growing
+VND-1751,Suresh Tiffin Center,Grocery Stall,Arcot,37,39,healthy
+VND-1752,Arun Flower Stall,Grocery Stall,Vellore,42,125,seasonal
+VND-1753,Kavitha Tea Stall,Electronics Repair,Ranipet,59,19,growing
+VND-1754,Divya Provision Store,Dairy Vendor,Arcot,56,97,healthy
+VND-1755,Lakshmi Boutique & Cloth,Florist,Katpadi,54,23,low_volume
+VND-1756,Ganesh Mobile Shop,Street Snacks,Arcot,55,109,healthy
+VND-1757,Lakshmi Boutique & Cloth,Florist,Katpadi,63,90,growing
+VND-1758,Karthik Boutique & Cloth,Grocery Stall,Katpadi,60,141,low_volume
+VND-1759,Saravanan Sweet & Snacks,Food & Beverage,Vellore,63,94,seasonal
+VND-1760,Babu Fruits & Juice,Florist,Vellore,64,88,healthy
+VND-1761,Venkatesh Vegetable Corner,Street Snacks,Ranipet,55,78,suspicious
+VND-1762,Ramesh Sweet & Snacks,Clothing Vendor,Arcot,53,120,seasonal
+VND-1763,Saravanan Tea Stall,Grocery Stall,Katpadi,41,137,healthy
+VND-1764,Lakshmi Vegetable Corner,Electronics Repair,Arcot,55,7,healthy
+VND-1765,Lakshmi Fruits & Juice,Florist,Walajah,27,58,irregular
+VND-1766,Radha Tiffin Center,Fresh Produce,Katpadi,22,123,seasonal
+VND-1767,Karthik Tea Stall,Fresh Produce,Vellore,24,51,growing
+VND-1768,Selvam Sweet & Snacks,Fresh Produce,Arcot,35,72,low_volume
+VND-1769,Meena Tiffin Center,Dairy Vendor,Walajah,48,86,irregular
+VND-1770,Ramesh Tiffin Center,Fresh Produce,Arcot,21,170,healthy
+VND-1771,Divya Vegetable Corner,Food & Beverage,Vellore,43,134,healthy
+VND-1772,Murugan Provision Store,Grocery Stall,Arcot,26,78,healthy
+VND-1773,Babu Tiffin Center,Street Snacks,Vellore,51,46,seasonal
+VND-1774,Radha Fruits & Juice,Electronics Repair,Walajah,55,81,healthy
+VND-1775,Kavitha Provision Store,Clothing Vendor,Vellore,56,148,growing
+VND-1776,Kavitha Vegetable Corner,Food & Beverage,Vellore,57,158,irregular
+VND-1777,Venkatesh Sweet & Snacks,Fresh Produce,Ranipet,34,94,low_volume
+VND-1778,Priya Tiffin Center,Electronics Repair,Katpadi,32,62,healthy
+VND-1779,Divya Provision Store,Florist,Vellore,32,177,irregular
+VND-1780,Mani Tea Stall,Dairy Vendor,Arcot,25,80,healthy
+VND-1781,Lakshmi Provision Store,Fresh Produce,Katpadi,58,130,irregular
+VND-1782,Karthik Boutique & Cloth,Electronics Repair,Katpadi,27,78,healthy
+VND-1783,Divya Vegetable Corner,Florist,Ranipet,52,121,healthy
+VND-1784,Karthik Flower Stall,Grocery Stall,Arcot,30,150,irregular
+VND-1785,Mani Boutique & Cloth,Clothing Vendor,Walajah,31,7,healthy
+VND-1786,Karthik Fruits & Juice,Florist,Walajah,38,98,healthy
+VND-1787,Kavitha Boutique & Cloth,Dairy Vendor,Walajah,49,97,seasonal
+VND-1788,Deepa Milk Point,Fresh Produce,Katpadi,62,161,seasonal
+VND-1789,Lakshmi Provision Store,Electronics Repair,Arcot,33,73,seasonal
+VND-1790,Lakshmi Vegetable Corner,Food & Beverage,Arcot,61,13,seasonal
+VND-1791,Mani Flower Stall,Street Snacks,Arcot,34,15,growing
+VND-1792,Radha Provision Store,Dairy Vendor,Katpadi,44,106,healthy
+VND-1793,Anand Flower Stall,Grocery Stall,Katpadi,50,134,healthy
+VND-1794,Ganesh Vegetable Corner,Street Snacks,Ranipet,53,8,healthy
+VND-1795,Anand Flower Stall,Electronics Repair,Arcot,29,120,low_volume
+VND-1796,Arun Mobile Shop,Electronics Repair,Walajah,43,16,growing
+VND-1797,Anand Milk Point,Florist,Vellore,37,100,growing
+VND-1798,Anand Tea Stall,Florist,Arcot,44,105,growing
+VND-1799,Saravanan Milk Point,Food & Beverage,Vellore,62,88,suspicious
+VND-1800,Murugan Sweet & Snacks,Grocery Stall,Ranipet,58,145,healthy
+VND-1801,Mani Mobile Shop,Street Snacks,Walajah,44,156,growing
+VND-1802,Lakshmi Sweet & Snacks,Grocery Stall,Walajah,35,138,growing
+VND-1803,Venkatesh Boutique & Cloth,Clothing Vendor,Walajah,51,160,seasonal
+VND-1804,Ramesh Sweet & Snacks,Electronics Repair,Walajah,31,64,healthy
+VND-1805,Lakshmi Sweet & Snacks,Grocery Stall,Katpadi,30,53,low_volume
+VND-1806,Arun Boutique & Cloth,Fresh Produce,Katpadi,47,90,suspicious
+VND-1807,Murugan Milk Point,Dairy Vendor,Walajah,34,157,growing
+VND-1808,Arun Tiffin Center,Food & Beverage,Katpadi,23,38,seasonal
+VND-1809,Mani Flower Stall,Electronics Repair,Katpadi,61,137,low_volume
+VND-1810,Suresh Flower Stall,Electronics Repair,Vellore,31,72,seasonal
+VND-1811,Arun Sweet & Snacks,Street Snacks,Arcot,57,169,healthy
+VND-1812,Ramesh Provision Store,Fresh Produce,Katpadi,49,161,growing
+VND-1813,Saravanan Milk Point,Electronics Repair,Katpadi,47,159,seasonal
+VND-1814,Kavitha Flower Stall,Electronics Repair,Arcot,63,136,growing
+VND-1815,Selvam Mobile Shop,Clothing Vendor,Walajah,59,157,seasonal
+VND-1816,Lakshmi Fruits & Juice,Street Snacks,Walajah,29,33,suspicious
+VND-1817,Ramesh Fruits & Juice,Street Snacks,Katpadi,59,30,low_volume
+VND-1818,Arun Milk Point,Food & Beverage,Arcot,53,36,growing
+VND-1819,Lakshmi Milk Point,Electronics Repair,Arcot,55,6,healthy
+VND-1820,Meena Sweet & Snacks,Street Snacks,Ranipet,23,141,suspicious
+VND-1821,Meena Fruits & Juice,Dairy Vendor,Walajah,43,156,irregular
+VND-1822,Mani Vegetable Corner,Street Snacks,Katpadi,37,128,healthy
+VND-1823,Anand Vegetable Corner,Grocery Stall,Arcot,55,110,low_volume
+VND-1824,Selvam Fruits & Juice,Food & Beverage,Vellore,57,139,low_volume
+VND-1825,Murugan Sweet & Snacks,Food & Beverage,Walajah,62,58,growing
+VND-1826,Karthik Tiffin Center,Clothing Vendor,Vellore,30,115,growing
+VND-1827,Mani Provision Store,Grocery Stall,Arcot,48,150,healthy
+VND-1828,Vijay Flower Stall,Grocery Stall,Walajah,34,111,healthy
+VND-1829,Radha Sweet & Snacks,Dairy Vendor,Katpadi,44,149,healthy
+VND-1830,Radha Milk Point,Grocery Stall,Ranipet,57,94,irregular
+VND-1831,Venkatesh Mobile Shop,Fresh Produce,Katpadi,49,47,healthy
+VND-1832,Murugan Fruits & Juice,Street Snacks,Ranipet,56,163,healthy
+VND-1833,Suresh Mobile Shop,Street Snacks,Vellore,26,43,healthy
+VND-1834,Saravanan Flower Stall,Street Snacks,Vellore,25,73,growing
+VND-1835,Anand Boutique & Cloth,Fresh Produce,Arcot,23,104,low_volume
+VND-1836,Venkatesh Flower Stall,Grocery Stall,Arcot,24,50,healthy
+VND-1837,Saravanan Milk Point,Food & Beverage,Katpadi,63,138,healthy
+VND-1838,Deepa Fruits & Juice,Food & Beverage,Arcot,53,138,seasonal
+VND-1839,Anand Flower Stall,Electronics Repair,Vellore,44,67,growing
+VND-1840,Ramesh Mobile Shop,Fresh Produce,Ranipet,46,96,healthy
+VND-1841,Venkatesh Tiffin Center,Florist,Arcot,21,23,growing
+VND-1842,Lakshmi Sweet & Snacks,Grocery Stall,Arcot,58,95,healthy
+VND-1843,Vijay Provision Store,Florist,Arcot,33,122,healthy
+VND-1844,Venkatesh Flower Stall,Food & Beverage,Ranipet,32,110,growing
+VND-1845,Ganesh Vegetable Corner,Fresh Produce,Arcot,39,93,growing
+VND-1846,Murugan Sweet & Snacks,Grocery Stall,Arcot,57,70,low_volume
+VND-1847,Babu Tiffin Center,Dairy Vendor,Katpadi,42,123,healthy
+VND-1848,Babu Flower Stall,Food & Beverage,Walajah,28,72,growing
+VND-1849,Lakshmi Tiffin Center,Florist,Katpadi,41,111,seasonal
+VND-1850,Vijay Sweet & Snacks,Food & Beverage,Ranipet,36,79,healthy
+VND-1851,Lakshmi Tiffin Center,Clothing Vendor,Vellore,56,51,seasonal
+VND-1852,Saravanan Boutique & Cloth,Clothing Vendor,Katpadi,57,74,healthy
+VND-1853,Arun Fruits & Juice,Dairy Vendor,Katpadi,36,67,suspicious
+VND-1854,Selvam Fruits & Juice,Florist,Katpadi,36,164,healthy
+VND-1855,Vijay Mobile Shop,Fresh Produce,Vellore,26,179,growing
+VND-1856,Saravanan Flower Stall,Food & Beverage,Arcot,23,129,healthy
+VND-1857,Vijay Flower Stall,Clothing Vendor,Walajah,57,76,suspicious
+VND-1858,Saravanan Mobile Shop,Grocery Stall,Walajah,35,153,growing
+VND-1859,Kavitha Tea Stall,Street Snacks,Walajah,55,14,growing
+VND-1860,Ganesh Boutique & Cloth,Street Snacks,Katpadi,50,36,healthy
+VND-1861,Ganesh Milk Point,Clothing Vendor,Vellore,21,178,seasonal
+VND-1862,Priya Tiffin Center,Fresh Produce,Ranipet,44,162,healthy
+VND-1863,Selvam Mobile Shop,Grocery Stall,Katpadi,38,126,low_volume
+VND-1864,Divya Boutique & Cloth,Clothing Vendor,Katpadi,52,114,healthy
+VND-1865,Priya Tiffin Center,Clothing Vendor,Ranipet,46,77,healthy
+VND-1866,Babu Mobile Shop,Electronics Repair,Arcot,64,64,healthy
+VND-1867,Murugan Provision Store,Florist,Arcot,48,103,growing
+VND-1868,Priya Mobile Shop,Electronics Repair,Walajah,21,51,growing
+VND-1869,Meena Milk Point,Electronics Repair,Arcot,55,86,healthy
+VND-1870,Saravanan Provision Store,Grocery Stall,Arcot,57,18,irregular
+VND-1871,Venkatesh Vegetable Corner,Electronics Repair,Vellore,34,71,growing
+VND-1872,Saravanan Vegetable Corner,Dairy Vendor,Ranipet,37,98,growing
+VND-1873,Vijay Sweet & Snacks,Grocery Stall,Ranipet,22,111,growing
+VND-1874,Murugan Boutique & Cloth,Florist,Arcot,57,172,growing
+VND-1875,Radha Mobile Shop,Grocery Stall,Ranipet,41,178,growing
+VND-1876,Ganesh Milk Point,Dairy Vendor,Vellore,45,163,healthy
+VND-1877,Deepa Milk Point,Electronics Repair,Katpadi,61,92,healthy
+VND-1878,Meena Flower Stall,Street Snacks,Vellore,26,47,low_volume
+VND-1879,Karthik Fruits & Juice,Clothing Vendor,Ranipet,62,80,suspicious
+VND-1880,Selvam Flower Stall,Street Snacks,Ranipet,49,98,healthy
+VND-1881,Mani Sweet & Snacks,Dairy Vendor,Walajah,31,53,healthy
+VND-1882,Ramesh Mobile Shop,Florist,Ranipet,65,26,seasonal
+VND-1883,Priya Mobile Shop,Street Snacks,Vellore,27,22,growing
+VND-1884,Saravanan Sweet & Snacks,Food & Beverage,Vellore,46,140,healthy
+VND-1885,Lakshmi Vegetable Corner,Grocery Stall,Arcot,30,27,healthy
+VND-1886,Venkatesh Provision Store,Florist,Katpadi,39,119,seasonal
+VND-1887,Kavitha Mobile Shop,Electronics Repair,Vellore,23,175,seasonal
+VND-1888,Vijay Boutique & Cloth,Dairy Vendor,Walajah,55,75,healthy
+VND-1889,Radha Milk Point,Electronics Repair,Arcot,32,157,healthy
+VND-1890,Divya Milk Point,Street Snacks,Arcot,61,169,healthy
+VND-1891,Radha Provision Store,Clothing Vendor,Walajah,55,64,seasonal
+VND-1892,Lakshmi Milk Point,Grocery Stall,Ranipet,47,72,healthy
+VND-1893,Kavitha Provision Store,Food & Beverage,Vellore,54,40,healthy
+VND-1894,Vijay Provision Store,Dairy Vendor,Arcot,21,131,irregular
+VND-1895,Saravanan Provision Store,Food & Beverage,Walajah,39,158,healthy
+VND-1896,Anand Tea Stall,Clothing Vendor,Katpadi,47,149,seasonal
+VND-1897,Meena Tiffin Center,Florist,Katpadi,62,105,healthy
+VND-1898,Venkatesh Fruits & Juice,Grocery Stall,Vellore,48,166,healthy
+VND-1899,Anand Sweet & Snacks,Grocery Stall,Ranipet,62,142,healthy
+VND-1900,Selvam Tiffin Center,Florist,Vellore,32,40,seasonal
+VND-1901,Deepa Vegetable Corner,Dairy Vendor,Arcot,49,75,low_volume
+VND-1902,Divya Milk Point,Florist,Ranipet,22,44,irregular
+VND-1903,Suresh Sweet & Snacks,Food & Beverage,Katpadi,27,78,healthy
+VND-1904,Selvam Mobile Shop,Dairy Vendor,Vellore,35,29,seasonal
+VND-1905,Kavitha Tea Stall,Dairy Vendor,Katpadi,42,113,healthy
+VND-1906,Deepa Milk Point,Clothing Vendor,Walajah,65,14,healthy
+VND-1907,Karthik Vegetable Corner,Electronics Repair,Vellore,38,106,low_volume
+VND-1908,Lakshmi Sweet & Snacks,Dairy Vendor,Katpadi,33,70,healthy
+VND-1909,Venkatesh Tea Stall,Fresh Produce,Katpadi,45,119,healthy
+VND-1910,Anand Tea Stall,Florist,Walajah,27,139,healthy
+VND-1911,Priya Milk Point,Street Snacks,Ranipet,41,46,healthy
+VND-1912,Suresh Sweet & Snacks,Fresh Produce,Ranipet,51,169,healthy
+VND-1913,Deepa Fruits & Juice,Clothing Vendor,Vellore,63,61,growing
+VND-1914,Murugan Fruits & Juice,Street Snacks,Ranipet,21,48,growing
+VND-1915,Selvam Flower Stall,Fresh Produce,Walajah,36,8,low_volume
+VND-1916,Suresh Flower Stall,Dairy Vendor,Arcot,30,101,irregular
+VND-1917,Lakshmi Fruits & Juice,Electronics Repair,Walajah,26,164,healthy
+VND-1918,Karthik Tea Stall,Food & Beverage,Ranipet,62,45,healthy
+VND-1919,Radha Vegetable Corner,Electronics Repair,Walajah,35,87,healthy
+VND-1920,Radha Boutique & Cloth,Dairy Vendor,Katpadi,22,102,growing
+VND-1921,Vijay Mobile Shop,Grocery Stall,Vellore,52,118,healthy
+VND-1922,Radha Provision Store,Dairy Vendor,Katpadi,57,53,seasonal
+VND-1923,Radha Boutique & Cloth,Clothing Vendor,Walajah,38,159,growing
+VND-1924,Radha Mobile Shop,Fresh Produce,Arcot,30,121,growing
+VND-1925,Deepa Provision Store,Clothing Vendor,Walajah,21,169,growing
+VND-1926,Ganesh Tiffin Center,Electronics Repair,Vellore,60,99,healthy
+VND-1927,Divya Fruits & Juice,Clothing Vendor,Vellore,63,143,suspicious
+VND-1928,Venkatesh Fruits & Juice,Dairy Vendor,Arcot,30,162,irregular
+VND-1929,Deepa Boutique & Cloth,Street Snacks,Ranipet,28,30,healthy
+VND-1930,Ganesh Vegetable Corner,Food & Beverage,Katpadi,32,14,low_volume
+VND-1931,Priya Vegetable Corner,Dairy Vendor,Katpadi,27,14,growing
+VND-1932,Mani Tiffin Center,Dairy Vendor,Arcot,60,157,low_volume
+VND-1933,Selvam Tea Stall,Clothing Vendor,Katpadi,59,24,irregular
+VND-1934,Ramesh Fruits & Juice,Dairy Vendor,Vellore,50,169,growing
+VND-1935,Suresh Boutique & Cloth,Street Snacks,Ranipet,24,163,healthy
+VND-1936,Selvam Sweet & Snacks,Food & Beverage,Vellore,40,25,healthy
+VND-1937,Priya Sweet & Snacks,Fresh Produce,Vellore,35,142,growing
+VND-1938,Venkatesh Fruits & Juice,Florist,Arcot,63,69,seasonal
+VND-1939,Mani Mobile Shop,Street Snacks,Vellore,61,153,healthy
+VND-1940,Vijay Milk Point,Street Snacks,Vellore,31,52,healthy
+VND-1941,Radha Tiffin Center,Clothing Vendor,Katpadi,55,159,irregular
+VND-1942,Babu Boutique & Cloth,Clothing Vendor,Arcot,41,101,suspicious
+VND-1943,Meena Tiffin Center,Clothing Vendor,Arcot,36,150,growing
+VND-1944,Radha Fruits & Juice,Street Snacks,Arcot,37,98,healthy
+VND-1945,Babu Milk Point,Street Snacks,Vellore,23,78,healthy
+VND-1946,Divya Tea Stall,Electronics Repair,Ranipet,21,82,healthy
+VND-1947,Anand Fruits & Juice,Clothing Vendor,Vellore,65,76,low_volume
+VND-1948,Radha Sweet & Snacks,Electronics Repair,Vellore,23,123,healthy
+VND-1949,Vijay Mobile Shop,Electronics Repair,Ranipet,44,155,growing
+VND-1950,Anand Fruits & Juice,Grocery Stall,Ranipet,26,152,healthy
+VND-1951,Venkatesh Flower Stall,Florist,Vellore,41,129,growing
+VND-1952,Arun Milk Point,Fresh Produce,Arcot,62,82,seasonal
+VND-1953,Suresh Flower Stall,Street Snacks,Vellore,24,91,irregular
+VND-1954,Vijay Tiffin Center,Street Snacks,Vellore,35,173,healthy
+VND-1955,Divya Tea Stall,Street Snacks,Vellore,40,140,healthy
+VND-1956,Suresh Boutique & Cloth,Electronics Repair,Ranipet,53,62,healthy
+VND-1957,Kavitha Tea Stall,Street Snacks,Walajah,59,153,low_volume
+VND-1958,Ganesh Vegetable Corner,Florist,Walajah,39,106,low_volume
+VND-1959,Kavitha Mobile Shop,Clothing Vendor,Vellore,51,152,growing
+VND-1960,Suresh Sweet & Snacks,Street Snacks,Ranipet,26,108,seasonal
+VND-1961,Ganesh Tiffin Center,Electronics Repair,Katpadi,51,149,seasonal
+VND-1962,Priya Milk Point,Street Snacks,Arcot,33,149,healthy
+VND-1963,Divya Sweet & Snacks,Florist,Katpadi,25,74,low_volume
+VND-1964,Meena Boutique & Cloth,Fresh Produce,Vellore,63,111,growing
+VND-1965,Meena Boutique & Cloth,Clothing Vendor,Katpadi,41,94,healthy
+VND-1966,Divya Tea Stall,Grocery Stall,Katpadi,43,163,growing
+VND-1967,Babu Flower Stall,Electronics Repair,Walajah,23,65,healthy
+VND-1968,Priya Boutique & Cloth,Electronics Repair,Vellore,28,19,healthy
+VND-1969,Anand Flower Stall,Electronics Repair,Ranipet,21,93,seasonal
+VND-1970,Murugan Provision Store,Dairy Vendor,Walajah,22,90,healthy
+VND-1971,Priya Sweet & Snacks,Florist,Katpadi,55,139,seasonal
+VND-1972,Selvam Sweet & Snacks,Dairy Vendor,Arcot,30,177,healthy
+VND-1973,Ramesh Tiffin Center,Food & Beverage,Ranipet,31,21,healthy
+VND-1974,Deepa Fruits & Juice,Grocery Stall,Vellore,50,173,healthy
+VND-1975,Ramesh Vegetable Corner,Street Snacks,Ranipet,63,174,healthy
+VND-1976,Vijay Vegetable Corner,Food & Beverage,Ranipet,62,104,seasonal
+VND-1977,Anand Tiffin Center,Fresh Produce,Ranipet,52,158,healthy
+VND-1978,Radha Vegetable Corner,Electronics Repair,Katpadi,53,123,growing
+VND-1979,Radha Tea Stall,Food & Beverage,Katpadi,54,84,growing
+VND-1980,Karthik Milk Point,Street Snacks,Katpadi,22,94,seasonal
+VND-1981,Vijay Boutique & Cloth,Grocery Stall,Katpadi,53,76,suspicious
+VND-1982,Suresh Provision Store,Street Snacks,Vellore,56,77,seasonal
+VND-1983,Anand Mobile Shop,Clothing Vendor,Walajah,63,41,healthy
+VND-1984,Lakshmi Tiffin Center,Florist,Walajah,36,152,healthy
+VND-1985,Kavitha Tiffin Center,Grocery Stall,Arcot,42,120,healthy
+VND-1986,Radha Mobile Shop,Florist,Katpadi,58,144,growing
+VND-1987,Priya Mobile Shop,Grocery Stall,Arcot,29,116,healthy
+VND-1988,Kavitha Flower Stall,Electronics Repair,Ranipet,25,148,growing
+VND-1989,Radha Vegetable Corner,Electronics Repair,Ranipet,30,13,growing
+VND-1990,Karthik Tiffin Center,Street Snacks,Ranipet,49,169,healthy
+VND-1991,Selvam Mobile Shop,Florist,Vellore,29,53,irregular
+VND-1992,Ramesh Flower Stall,Grocery Stall,Arcot,57,162,healthy
+VND-1993,Anand Flower Stall,Florist,Katpadi,64,12,healthy
+VND-1994,Vijay Vegetable Corner,Dairy Vendor,Katpadi,53,160,seasonal
+VND-1995,Saravanan Boutique & Cloth,Electronics Repair,Walajah,52,127,growing
+VND-1996,Kavitha Mobile Shop,Florist,Katpadi,23,110,seasonal
+VND-1997,Ramesh Provision Store,Street Snacks,Katpadi,63,57,growing
+VND-1998,Priya Vegetable Corner,Electronics Repair,Walajah,60,131,healthy
+VND-1999,Karthik Milk Point,Florist,Walajah,46,16,irregular

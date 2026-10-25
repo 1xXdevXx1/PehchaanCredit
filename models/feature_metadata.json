@@ -1,0 +1,17 @@
+{
+  "feature_cols": [
+    "spv",
+    "tsci",
+    "mcs",
+    "resilience",
+    "fsi",
+    "tci",
+    "bgi",
+    "fri",
+    "svps",
+    "total_volume",
+    "tx_count",
+    "avg_amount",
+    "unique_customers"
+  ]
+}

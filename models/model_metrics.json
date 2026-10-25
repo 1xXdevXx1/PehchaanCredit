@@ -1,0 +1,23 @@
+{
+  "model_type": "XGBoostRegressor",
+  "target": "repayment_probability (synthetic)",
+  "test_mse": 0.0029,
+  "test_r2": 0.8763,
+  "sample_size": 1000,
+  "features": [
+    "spv",
+    "tsci",
+    "mcs",
+    "resilience",
+    "fsi",
+    "tci",
+    "bgi",
+    "fri",
+    "svps",
+    "total_volume",
+    "tx_count",
+    "avg_amount",
+    "unique_customers"
+  ],
+  "status": "TRAINED"
+}
