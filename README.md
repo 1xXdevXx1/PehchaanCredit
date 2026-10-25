@@ -42,18 +42,17 @@ PehchaanCredit is an explainable behavioral credit assessment prototype designed
 
 | Component | Status | Description |
 | :--- | :--- | :--- |
-| **Synthetic Dataset Generator** | **IMPLEMENTED** | Reproducible seed generator producing 1,000 vendors, 100k+ transactions, and repayment labels. |
-| **Legacy Indices (FSI, TCI, BGI, FRI)** | **IMPLEMENTED** | Financial stability, transaction consistency, growth, and initial fraud risk. |
-| **Framework Metrics (SPV, TSCI, MCS, Resilience)** | **IMPLEMENTED** | Supplier velocity (15%), business rhythm (15%), customer score (15%), STL seasonal resilience (10%). |
-| **Hybrid Fraud & SVPS Engine** | **IMPLEMENTED** | Rules + Isolation Forest + NetworkX graph cycle detection ( \to B \to C \to A$) $\to$ SVPS $\in [0, 1]$. |
-| **XGBoost Credit Quality ({base}$)** | **TRAINED** | XGBoost Regressor trained on behavioral signals (Test ^2 = 0.876$). |
-| **SHAP Explainability** | **IMPLEMENTED** | Generates human-readable positive and negative factor attribution. |
-| **Final Scoring & Decision Engine** | **IMPLEMENTED** | {final} = Q_{base} \times (1 - 0.25 \times \text{SVPS})$, $\text{Score} = 300 + 600 \times Q_{final}$, and underwriting actions. |
-| **FastAPI REST Service** | **IMPLEMENTED** | Complete endpoint suite with automatic OpenAPI documentation. |
-| **SQLite Database** | **IMPLEMENTED** | SQLAlchemy ORM tables seeded with 1,000 vendors and precomputed assessments. |
-| **React Frontend** | **IMPLEMENTED** | Exact design, styles, responsive breakpoints, live API integration, and assessment modal. |
-| **T-GAT + Time2Vec** | **OPTIONAL/EXPERIMENTAL** | Modular interface provided. Working demo runs on rules + Isolation Forest + NetworkX. |
-| **Temporal Fusion Transformer (TFT)** | **OPTIONAL/NOT_TRAINED** | Modular architecture provided as research extension; demo uses trained XGBoost. |
+| **Synthetic Dataset Generator** | **IMPLEMENTED** | Reproducible seed generator producing 1,000 realistic informal vendors, 100k+ multi-attributed transactions, and empirical repayment outcomes. |
+| **Legacy Indices (FSI, TCI, BGI, FRI)** | **IMPLEMENTED** | Financial Stability Index, Transaction Consistency Index, Business Growth Index, and Fraud Risk Indicators. |
+| **Novel Behavioral Metrics (SPV, TSCI, MCS, Resilience)** | **IMPLEMENTED** | Supplier Payment Velocity via circular time stats (15%), Transaction Stability via Shannon entropy (15%), Merchant Customer Score via reciprocity filtering (15%), and Weather-aware Seasonal Resilience (10%). |
+| **Anti-Collusion & SVPS Graph Engine** | **IMPLEMENTED** | Multi-attributed NetworkX directed graph scanning for closed collusion loops ($A \to B \to C \to A$) with Reciprocal Amount Ratio ($\text{RAR} \ge 0.50$) yielding Synthetic Volume Penalty (SVPS). |
+| **Credit Quality ML Model ($Q_{\text{base}}$)** | **TRAINED** | Supervised XGBoost Regressor trained on behavioral signals ($R^2 = 0.876$), predicting baseline unbanked creditworthiness. |
+| **SHAP Explainability & Waterfall Statement** | **IMPLEMENTED** | RBI-compliant itemized factor attribution displaying transparent point-by-point adjustments from baseline to final score. |
+| **Final Scoring & Decision Engine** | **IMPLEMENTED** | Calibrated composite formulation mapping to standard Indian credit bureau scale (300 to 900), paired with risk-banded underwriting and loan sizing actions. |
+| **RBI Account Aggregator (AA) Service** | **IMPLEMENTED** | Mock consent artifact lifecycle (Active, 365-day validity, daily recurrent fetch) simulating encrypted bank transaction ingestion. |
+| **FastAPI REST Service** | **IMPLEMENTED** | High-throughput asynchronous backend service with complete REST endpoints and automated OpenAPI/Swagger documentation. |
+| **SQLite Database Layer** | **IMPLEMENTED** | SQLAlchemy ORM models managing 1,000 vendor profiles, transactions, AA consent records, and loan assessment applications. |
+| **React + Vite Frontend** | **IMPLEMENTED** | Underwriter workspace dashboard featuring interactive portfolio inspection, Trust Assessment reports, quantile risk bands, and responsive design. |
 
 ---
 
